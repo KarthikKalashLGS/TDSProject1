@@ -1,8 +1,8 @@
-username,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-kana,Kana Natsuno,,"Tokyo, Japan",,True,"To Vim, or not to Vim.",142,983,563,2008-02-29 17:09:01+00:00
-kakutani,Kakutani Shintaro,"FREELANCE, RUBY-NO-KAI","Tokyo, Japan",shintaro@kakutani.com,True,"a plain-old agile rubyist-ist. keeb zombie.
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+kana,Kana Natsuno,,"Tokyo, Japan",,TRUE,"To Vim, or not to Vim.",142,983,563,2008-02-29 17:09:01+00:00
+kakutani,Kakutani Shintaro,"FREELANCE, RUBY-NO-KAI","Tokyo, Japan",shintaro@kakutani.com,TRUE,"a plain-old agile rubyist-ist. keeb zombie.
 ",57,523,47,2008-03-04 17:11:22+00:00
-mootoh,Motohiro Takayama,"NEWMO, INC",Tokyo,mootoh@gmail.com,True,,70,217,50,2008-03-07 09:57:53+00:00
+mootoh,Motohiro Takayama,"NEWMO, INC",Tokyo,mootoh@gmail.com,TRUE,,70,217,50,2008-03-07 09:57:53+00:00
 lhl,Leonard,AUGMXNT,Tokyo,,,Independent technologist,99,215,73,2008-03-08 09:29:25+00:00
 walf443,"Keiji, Yoshimi",PIXIV,"Tokyo, Japan",walf443 at gmail dot com,,,168,227,334,2008-03-09 22:42:01+00:00
 moro,MOROHASHI Kyosuke,"SMS CO., LTD.",Tokyo/Japan,moronatural@gmail.com,,,79,206,48,2008-03-19 07:35:34+00:00
@@ -16,12 +16,12 @@ mayuki,Mayuki Sawatari,CYSHARP,"Tokyo, Japan",,,Software Developer; Microsoft MV
 hirose31,hirose31,,"Tokyo, Japan",hirose31@gmail.com,,,174,225,157,2008-05-02 06:27:49+00:00
 swdyh,swdyh,,Tokyo Japan,youhei+gh@gmail.com,,,35,244,55,2008-05-02 20:39:59+00:00
 ko1,Koichi Sasada,"STORES, INC.","Tokyo, Japan",,,A Ruby interpreter programmer.,74,1130,0,2008-05-07 08:44:41+00:00
-knu,Akinori Musha,,"Tokyo, Japan",knu@idaemons.org,True,"@Ruby committer, co-maintainer of @huginn, Emacs Lisper, ex-FreeBSD committer.  Senior Expert at @WEDInc.",192,453,17,2008-05-14 08:28:54+00:00
+knu,Akinori Musha,,"Tokyo, Japan",knu@idaemons.org,TRUE,"@Ruby committer, co-maintainer of @huginn, Emacs Lisper, ex-FreeBSD committer.  Senior Expert at @WEDInc.",192,453,17,2008-05-14 08:28:54+00:00
 takahashim,Masayoshi Takahashi,TATSU-ZINE PUBLISHING INC.,Tokyo Japan,,,,333,226,3,2008-05-15 15:33:38+00:00
 amachang,Hitoshi Amano,"SMARTNEWS, INC.","Tokyo, Japan",seijro@gmail.com,,,58,308,45,2008-05-19 05:08:21+00:00
 yorkxin,Yu-Cheng Chuang,,"Tokyo, Japan",ducksteven@gmail.com,,Web Backend Engineer. I program in Go.,33,280,1,2008-05-19 05:33:57+00:00
 takuma104,Takuma Mori,,Tokyo,takuma104@gmail.com,,An engineer guidance controlled by LLM,20,258,31,2008-05-19 12:48:52+00:00
-amatsuda,Akira Matsuda,FREELANCE,"Tokyo, Japan",ronnie@dio.jp,True,"@ruby / @rails committer,
+amatsuda,Akira Matsuda,FREELANCE,"Tokyo, Japan",ronnie@dio.jp,TRUE,"@ruby / @rails committer,
 Author of @kaminari,
 Founder of @asakusarb,
 Chief Organizer of @rubykaigi ",218,2897,215,2008-05-26 05:17:23+00:00
@@ -44,7 +44,7 @@ Kimtaro,Kim Ahlström,,"London, Tokyo, San Francisco, Stockholm",kim.ahlstrom@gm
 cognitom,Tsutomu Kawamura,"LIBRIZE LLC / OPENSOURCE CAFE, SHIMOKITAZAWA",Tokyo,tsutomu@librize.com,,,145,345,110,2008-07-04 12:46:20+00:00
 komagata,Masaki Komagata,"FJORD, INC",Tokyo Japan,komagata@gmail.com,,I love Ruby.,188,358,162,2008-07-09 21:07:34+00:00
 hajimehoshi,Hajime Hoshi,ODENCAT,"Tokyo, Japan",hajimehoshi@gmail.com,,CTO at Odencat. Author of Ebitengine.,155,2146,332,2008-07-13 19:11:52+00:00
-ngs,Atsushi NAGASE,INSTANCE0,"Meguro, Tokyo, JAPAN",a@ngs.io,True,Software Developer and Founder @instance0,99,290,156,2008-07-28 04:54:53+00:00
+ngs,Atsushi NAGASE,INSTANCE0,"Meguro, Tokyo, JAPAN",a@ngs.io,TRUE,Software Developer and Founder @instance0,99,290,156,2008-07-28 04:54:53+00:00
 yuroyoro,しいたけ,,Tokyo,ozaki@yuroyoro.com,,"My whole life was 
 
 —— ""degraded code works""",155,472,201,2008-07-28 05:44:32+00:00
@@ -59,22 +59,22 @@ Author of @js-primer.
 NalaGinrut,Roy Mu,,Tokyo,NalaGinrut@hardenedlinux.org,,,67,223,11,2008-08-06 09:58:55+00:00
 twada,Takuto Wada,TOWERSQUEST INC.,"Tokyo, Japan",takuto.wada@gmail.com,,,49,1240,140,2008-08-07 12:12:06+00:00
 mirakui,Issei Naruta,IVRY INC.,"Tokyo, Japan",mimitako@gmail.com,,,112,238,14,2008-08-12 12:30:02+00:00
-tokuhirom,Tokuhiro Matsuno,LINE CORP,"Tokyo, Japan",,True,"Kotlin/Rust/Python engineer.
+tokuhirom,Tokuhiro Matsuno,LINE CORP,"Tokyo, Japan",,TRUE,"Kotlin/Rust/Python engineer.
 I wrote Java, Perl5, C, C++, Kotlin, and golang for $DAYJOB.",861,962,436,2008-08-18 23:19:04+00:00
-konn,Hiromi Ishii,,Tokyo,,True,"Dependent Haskeller / Linear Haskell Advocate, Ph.D. in Math",250,206,55,2008-08-25 11:07:23+00:00
-mopemope,Yutaka Matsubara,ABBY,"Tokyo, Japan",yutaka.matsubara@gmail.com,True,"
+konn,Hiromi Ishii,,Tokyo,,TRUE,"Dependent Haskeller / Linear Haskell Advocate, Ph.D. in Math",250,206,55,2008-08-25 11:07:23+00:00
+mopemope,Yutaka Matsubara,ABBY,"Tokyo, Japan",yutaka.matsubara@gmail.com,TRUE,"
     Psychedelic programmer
 ",123,279,316,2008-08-31 10:37:20+00:00
-ryanmcgrath,Ryan McGrath,FREELANCE,Seattle / Tokyo,ryan@rymc.io,True,"Privacy, Rust, Apple and everything in-between. Other tech stacks welcome too, as long as what we're building is cool.",58,406,67,2008-09-01 04:56:48+00:00
+ryanmcgrath,Ryan McGrath,FREELANCE,Seattle / Tokyo,ryan@rymc.io,TRUE,"Privacy, Rust, Apple and everything in-between. Other tech stacks welcome too, as long as what we're building is cool.",58,406,67,2008-09-01 04:56:48+00:00
 stomita,Shinichi Tomita,"MASHMATRIX, INC.","Tokyo, Japan",shinichi.tomita@gmail.com,,,79,269,35,2008-09-06 02:40:27+00:00
 ericnakagawa,Eric Nakagawa,CELO FOUNDATIONS,"San Francisco, Honolulu, Tokyo",ericnakagawa@gmail.com,,Probably building something fun.,37,208,108,2008-09-09 21:12:47+00:00
-predominant,Graham Weldon,,"Tokyo, Japan",graham@grahamweldon.com,True,,205,289,43,2008-09-14 21:09:24+00:00
-cournape,David Cournapeau,AMAZON JP,"Tokyo, Japan",cournape@gmail.com,True,,148,534,2,2008-09-18 04:42:23+00:00
+predominant,Graham Weldon,,"Tokyo, Japan",graham@grahamweldon.com,TRUE,,205,289,43,2008-09-14 21:09:24+00:00
+cournape,David Cournapeau,AMAZON JP,"Tokyo, Japan",cournape@gmail.com,TRUE,,148,534,2,2008-09-18 04:42:23+00:00
 yuiseki,yuiseki,YUISEKI INC.,"Taito, Tokyo, Japan",yuiseki@gmail.com,,Product manager & Software engineer,438,577,1127,2008-09-20 16:48:29+00:00
-masarakki,masarakki,TIMEE,"Tokyo, JP",masaki182@gmail.com,True,,81,273,139,2008-09-24 03:59:26+00:00
+masarakki,masarakki,TIMEE,"Tokyo, JP",masaki182@gmail.com,TRUE,,81,273,139,2008-09-24 03:59:26+00:00
 teppeis,Teppei Sato,CYBOZU / @KINTONE,Tokyo,,,🍛 + 🍻 = 👍,182,247,100,2008-09-27 04:11:47+00:00
-nov,Nov Matake,YAUTH.JP LLC,"Tokyo, Japan",nov@matake.jp,True,"Working around Ruby, OAuth, OpenID etc.",165,336,0,2008-10-02 17:46:13+00:00
-kou,Sutou Kouhei,CLEAR-CODE,"Tokyo, Japan",kou@clear-code.com,True,,324,530,0,2008-10-02 23:17:52+00:00
+nov,Nov Matake,YAUTH.JP LLC,"Tokyo, Japan",nov@matake.jp,TRUE,"Working around Ruby, OAuth, OpenID etc.",165,336,0,2008-10-02 17:46:13+00:00
+kou,Sutou Kouhei,CLEAR-CODE,"Tokyo, Japan",kou@clear-code.com,TRUE,,324,530,0,2008-10-02 23:17:52+00:00
 Saqoosha,Saqoosha,WHATEVER-CO,"Tokyo, Japan",,,,53,308,96,2008-10-06 03:18:54+00:00
 studiomohawk,Yuya Saito,,Tokyo,,,"https://frontendweekly.tokyo/
 https://virga.frontendweekly.tokyo/
@@ -89,23 +89,23 @@ sonsongithub,Yuichi Yoshida,"DENSO IT LABORATORY, INC.","Tokyo, Japan.",,,"I'm a
 @DensoITLab ",163,289,48,2008-11-11 05:03:56+00:00
 okuryu,Ryuichi Okumura,,Tokyo,okuryu@okuryu.com,,"Technical at LY Corporation, contributor @progit, @yahoo, @formatjs, @nodejs, and @yui.",132,218,12,2008-11-15 08:10:37+00:00
 hokaccha,Kazuhito Hokamura,UBIE-INC,Tokyo. Japan,k.hokamura@gmail.com,,Software engineer,218,412,50,2008-12-10 02:28:34+00:00
-kishikawakatsumi,Kishikawa Katsumi,,Tokyo,kishikawakatsumi@mac.com,True,iOS developer,163,2776,40,2008-12-15 20:44:05+00:00
+kishikawakatsumi,Kishikawa Katsumi,,Tokyo,kishikawakatsumi@mac.com,TRUE,iOS developer,163,2776,40,2008-12-15 20:44:05+00:00
 kazuho,Kazuho Oku,FASTLY,Tokyo,kazuho@natadeco.co,,,153,1552,69,2008-12-19 12:47:03+00:00
 qnighy,Masaki Hara,WANTEDLY,Tokyo,,,Loves programming languages,222,296,114,2008-12-20 07:16:39+00:00
 satoruhiga,Satoru Higa,BACKSPACETOKYO,Tokyo,satoruhiga@gmail.com,,,110,697,129,2008-12-28 20:32:05+00:00
 hibariya,Hibariya,KOMOJU BY @DEGICA,"Tokyo, Japan",hibariya@gmail.com,,"Ruby, Internet and Programming.",113,240,197,2008-12-30 16:45:02+00:00
-neuecc,Yoshifumi Kawai,CYSHARP,"Tokyo, Japan",,True,"Founder/CEO/CTO of Cysharp, Inc. Microsoft MVP for Visual C# since 2011",57,3592,22,2009-01-13 09:16:28+00:00
+neuecc,Yoshifumi Kawai,CYSHARP,"Tokyo, Japan",,TRUE,"Founder/CEO/CTO of Cysharp, Inc. Microsoft MVP for Visual C# since 2011",57,3592,22,2009-01-13 09:16:28+00:00
 nekokak,Atsushi Kobayashi,,Tokyo Japan,,,,65,221,158,2009-01-16 13:54:20+00:00
 rui314,Rui Ueyama,BLUE WHALE SYSTEMS,Tokyo,rui314@gmail.com,,,44,5938,8,2009-01-18 01:29:27+00:00
 tyru,Fujiwara Takuya,,"Tokyo, Japan",tyru.exe@gmail.com,,"Scala, Java, TypeScript, JavaScript, Perl, Vim script, (ba)sh / Vim lover / Practicalist but sometimes idealist",222,502,364,2009-01-21 06:15:37+00:00
-lestrrat,lestrrat,MERCARI,"Tokyo, Japan",,True,"DevRel/Tech Event orga. @peco maintainer. Projects → Go: @lestrrat-go, Perl5: @lestrrat-p5, Perl6: @lestrrat-p6, dead projects: @lestrrat-morgue",74,886,75,2009-01-26 08:09:48+00:00
+lestrrat,lestrrat,MERCARI,"Tokyo, Japan",,TRUE,"DevRel/Tech Event orga. @peco maintainer. Projects → Go: @lestrrat-go, Perl5: @lestrrat-p5, Perl6: @lestrrat-p6, dead projects: @lestrrat-morgue",74,886,75,2009-01-26 08:09:48+00:00
 ianlewis,Ian Lewis,GOOGLE,"Tokyo, Japan",IanMLewis@gmail.com,,Developer Advocate for Google Cloud Platform. #python #golang,169,395,109,2009-01-26 08:48:49+00:00
-atsushieno,Atsushi Eno,,Tokyo,atsushieno@gmail.com,True,"music software tools enthusiast. Audio Plugins for Android, Linux, MML, MIDI 1.0/2.0, LV2. Kotlin Multiplatform.",263,313,33,2009-02-12 14:09:59+00:00
-higepon,Higepon Taro Minowa,GOOGLE,Tokyo,higepon@gmail.com,True,,67,429,4,2009-02-14 11:46:45+00:00
-yuin,Yusuke Inuzuka,,"Tokyo, Japan",yuin@inforno.net,True,Software developer from Japan. Explicit is better than implicit.,33,486,0,2009-02-21 03:57:26+00:00
-kawasima,Yoshitaka Kawashima,"WOLFCHIEF, INC.","Tokyo, Japan",kawasima1016@gmail.com,True,,266,289,52,2009-03-01 03:32:49+00:00
+atsushieno,Atsushi Eno,,Tokyo,atsushieno@gmail.com,TRUE,"music software tools enthusiast. Audio Plugins for Android, Linux, MML, MIDI 1.0/2.0, LV2. Kotlin Multiplatform.",263,313,33,2009-02-12 14:09:59+00:00
+higepon,Higepon Taro Minowa,GOOGLE,Tokyo,higepon@gmail.com,TRUE,,67,429,4,2009-02-14 11:46:45+00:00
+yuin,Yusuke Inuzuka,,"Tokyo, Japan",yuin@inforno.net,TRUE,Software developer from Japan. Explicit is better than implicit.,33,486,0,2009-02-21 03:57:26+00:00
+kawasima,Yoshitaka Kawashima,"WOLFCHIEF, INC.","Tokyo, Japan",kawasima1016@gmail.com,TRUE,,266,289,52,2009-03-01 03:32:49+00:00
 penk,Penk Chen,CUTIEPI-IO,"Tokyo, Japan",penkia@gmail.com,,A digital nomad from Taiwan,55,474,30,2009-03-10 06:35:23+00:00
-yyuu,"Yamashita, Yuu",TREASURE DATA INC.,"Tokyo, Japan",peek824545201@gmail.com,True,https://github.com/yyuu,148,617,475,2009-03-15 15:35:21+00:00
+yyuu,"Yamashita, Yuu",TREASURE DATA INC.,"Tokyo, Japan",peek824545201@gmail.com,TRUE,https://github.com/yyuu,148,617,475,2009-03-15 15:35:21+00:00
 taichi,taichi,,Tokyo,,,yak shaver,128,235,171,2009-03-23 14:57:23+00:00
 syoichi,Syoichi Tsuyuhara,PIXIV INC.,"Sendagaya, Shibuya, Tokyo, Japan",,,"I'm interested in JavaScript/ECMAScript, Web Standard, Browser, Browser Extension, User Script, User Style.",36,220,1057,2009-04-01 05:41:03+00:00
 eagletmt,Kohei Suzuki,COOKPAD,"Tokyo, Japan",github@wanko.cc,,I'm interested in automation of daily life,261,287,19,2009-04-02 11:18:16+00:00
@@ -113,11 +113,11 @@ piroor,"YUKI ""Piro"" Hiroshi",CLEARCODE INC. HTTP://WWW.CLEAR-CODE.COM/,"Tokyo,
 daitomanabe,Daito Manabe,RHIZOMATIKS,Tokyo,daito@rhizomatiks.com,,old school youtuber,217,570,247,2009-04-09 09:21:13+00:00
 kazupon,kazuya kawaguchi,"PLAID, INC.","Tokyo, Japan",,,"software engineer, @vuejs core team member, creator of @intlify & i18n enthusiast, @vuejs-jp organizer, and wasm love",310,4052,445,2009-04-12 13:49:24+00:00
 Jessidhia,Jessica Franco,"PIXIV INC, PIXIV DESKTOP","Tokyo, Japan",jessica@jessidhia.dev,,,118,683,19,2009-04-12 20:59:56+00:00
-mizchi,Kotaro Chikuba,,Tokyo/Japan,miz404@gmail.com,True,,411,1318,103,2009-04-15 07:43:45+00:00
+mizchi,Kotaro Chikuba,,Tokyo/Japan,miz404@gmail.com,TRUE,,411,1318,103,2009-04-15 07:43:45+00:00
 yusuke,Yusuke Yamamoto,SAMURAISM INC.,"Tokyo, Japan",yusuke@mac.com,,"Java Developer, Java Champion, and author of Twitter4J",165,612,9,2009-04-17 16:17:17+00:00
 yoshiori,Yoshiori Shoji,"LAUNCHABLE, INC.","Tokyo, Japan",yoshiori+github@gmail.com,,Please write your favorite part of Yakiniku in your scout email.,121,245,74,2009-04-28 03:54:52+00:00
 yuki-kimoto,Yuki Kimoto,,"I live in Tokyo, Japan. I was born in Nara.",kimoto.yuki@gmail.com,,I'm developing SPVM programing language and GitPrep now.,248,226,295,2009-05-07 01:27:24+00:00
-willnet,Shinichi Maeshima,WILLNET INC.,"Tokyo, Japan",netwillnet@gmail.com,True,"
+willnet,Shinichi Maeshima,WILLNET INC.,"Tokyo, Japan",netwillnet@gmail.com,TRUE,"
     an organizer of @ginzarb
 ",264,256,61,2009-05-08 10:15:46+00:00
 t32k,t32k,,Tokyo,,,Design Engineer,92,360,708,2009-05-20 00:11:15+00:00
@@ -126,7 +126,7 @@ yanex,Yan Zhulanow,JETBRAINS,"Tokyo, Japan",mail@yanex.org,,,21,328,6,2009-06-16
 hak,Hakuro Matsuda,GOOGLE,"Tokyo, Japan",hakuroum@gmail.com,,,23,303,10,2009-06-23 03:24:35+00:00
 marcan,Hector Martin,,"Tokyo, Japan",marcan@marcan.st,,"If it ain't broke, I'll fix it!",84,4568,1,2009-06-24 04:56:37+00:00
 nicolas-raoul,Nicolas Raoul,GOOGLE,Tokyo,nicolas.raoul@gmail.com,,Manager of many open source projects and organizations | GSoC/GCI/Outreachy mentor,211,244,69,2009-06-28 02:35:30+00:00
-gfx,FUJI Goro,STARLEY-AI,"Tokyo, Japan",,True,Software engineer.  Parent of two kids. I love programming!,445,980,607,2009-07-05 08:07:35+00:00
+gfx,FUJI Goro,STARLEY-AI,"Tokyo, Japan",,TRUE,Software engineer.  Parent of two kids. I love programming!,445,980,607,2009-07-05 08:07:35+00:00
 yandod,Yusuke Ando,,Tokyo,yandod@gmail.com,,,147,206,74,2009-07-11 14:01:19+00:00
 making,Toshiaki Maki,VMWARE,Tokyo,tmaki@vmware.com,,Senior Staff Solutions Architect @vmware-tanzu,885,828,10,2009-07-20 15:33:04+00:00
 aliceinwire,Arisu Tachibana,MIRACLELINUX,"Tokyo,Japan",alicef@alicef.me,,"Gentoo Kernel Project Leader
@@ -134,14 +134,14 @@ Gentoo Kernel Security
 I cannot accept direct sponsorship. part of @gentoo @gkernelci @torvalds @miraclelinux @kernelci ",183,273,215,2009-07-22 09:15:02+00:00
 thorikawa,"Takahiro ""Poly"" Horikawa","CURIOSITY, INC.","Tokyo, Japan",horikawa.takahiro@gmail.com,,"CEO & Engineer @curiosity-inc. Ex-@yahoo. Creator of FireMobileSimulator. Interested in AR/VR/MR, Computer Vision, AI, Mathematics and Music.",211,217,187,2009-07-27 06:31:12+00:00
 tanakh,Hideyuki Tanaka,,Tokyo,tanaka.hideyuki@gmail.com,,,121,489,4,2009-07-27 11:49:52+00:00
-ninjinkun,Satoshi Asano,LAUNCHABLEINC,Tokyo,ninjin@mac.com,True,"Web App Developer, UI Designer",36,340,19,2009-08-09 10:02:04+00:00
+ninjinkun,Satoshi Asano,LAUNCHABLEINC,Tokyo,ninjin@mac.com,TRUE,"Web App Developer, UI Designer",36,340,19,2009-08-09 10:02:04+00:00
 joker1007,Tomohiro Hashidate,REPRO INC,"Tokyo, Asakusa",,,Repro inc. Chief Architect,196,337,93,2009-08-19 11:24:43+00:00
 ktoso,Konrad `ktoso` Malawski,WE SELL FRUIT. ¯\_(ツ)_/¯,"I'm fine, thanks! Tokyo",,,Concurrency & Distributed systems in Swift @ ; ex: Akka | Reactive Streams,416,1524,173,2009-08-29 23:36:34+00:00
-hirocaster,Hiroki OHTSUKA,,"Shibuya, Tokyo, Japan",,True,,253,295,73,2009-09-03 15:17:27+00:00
+hirocaster,Hiroki OHTSUKA,,"Shibuya, Tokyo, Japan",,TRUE,,253,295,73,2009-09-03 15:17:27+00:00
 vvakame,Masahiro Wakame,"MERPAY, INC.","Tokyo, Japan",,,"❤️ TypeScript, Go, GraphQL and 🐈 ",198,837,32,2009-09-10 12:20:08+00:00
-marocchino,,,"Tokyo, Japan",,True,,231,278,31,2009-09-18 05:33:48+00:00
+marocchino,,,"Tokyo, Japan",,TRUE,,231,278,31,2009-09-18 05:33:48+00:00
 miyaichi,Yoshihiko Miyaichi,PIER1 INC. (HTTPS://PIER1.CO.JP),"Tokyo, Japan",miyaichi@gmail.com,,,67,202,3,2009-09-22 06:07:25+00:00
-guregu,guregu,,Tokyo,,True,,86,247,39,2009-09-25 03:41:31+00:00
+guregu,guregu,,Tokyo,,TRUE,,86,247,39,2009-09-25 03:41:31+00:00
 inamiy,Yasuhiro Inami,GOODNOTES,"Tokyo, Japan",inamiy@gmail.com,,"Software developer at @GoodNotes . 
 
 Interests: Swift / Haskell / PureScript / Elm / Rust / TypeScript / Category Theory",155,1176,516,2009-10-12 03:31:51+00:00
@@ -150,29 +150,29 @@ ojii,Jonas Obrist,HENNGE K.K.,"Tokyo, Japan",ojiidotch@gmail.com,,,207,307,61,20
 miyabi,Masayuki Iwai,MYB DESIGN,Tokyo,,,,65,267,19,2009-10-22 17:01:13+00:00
 ymotongpoo,Yoshi Yamaguchi,GOOGLE,"Tokyo, Japan",,,Developer Relations Engineer for Observability in Google Cloud.,203,358,181,2009-10-27 04:52:24+00:00
 natronics,Nathan Bergey,AXELSPACE,"Tokyo, JP",nathan.bergey@gmail.com,,Full stack web developer with a passion for space. 15+ years software and technical experience.,66,279,138,2009-10-29 05:36:19+00:00
-giginet,Kohki Miki,LINE CORP.,"Tokyo, Japan",giginet.net@gmail.com,True,Hi! I'm giginyan. Engineer at @LINE. I'm interested in Game development. Core Contributor of @fastlane / @Carthage / XcodeGen,296,600,126,2009-10-31 07:30:10+00:00
+giginet,Kohki Miki,LINE CORP.,"Tokyo, Japan",giginet.net@gmail.com,TRUE,Hi! I'm giginyan. Engineer at @LINE. I'm interested in Game development. Core Contributor of @fastlane / @Carthage / XcodeGen,296,600,126,2009-10-31 07:30:10+00:00
 kuy,Yuki Kodama,,"Tokyo, Japan",,,,183,242,270,2009-11-11 04:04:31+00:00
-kumagi,Hiroki KUMAZAKI,GOOGLE,Tokyo,rintyo_@hotmail.com,True,,122,216,92,2009-11-14 19:51:52+00:00
+kumagi,Hiroki KUMAZAKI,GOOGLE,Tokyo,rintyo_@hotmail.com,TRUE,,122,216,92,2009-11-14 19:51:52+00:00
 yasulab,Yohei Yasukawa,YASSLAB INC.,"CASE Shinjuku, Tokyo, Japan",yohei@yasslab.jp,,"Committer to @coderdojo-japan, @mitou, and @remote-jp. CEO @YassLab, where we develop railstutorial.jp & railsguides.jp for those who learn web development! 🎓",67,318,273,2009-11-20 05:47:53+00:00
 hayatoito,Hayato Ito,GOOGLE,Tokyo,hayato@google.com,,"@google @whatwg @w3c 
 
 Google Chrome / Blink. DOM / Shadow DOM. Web Bundles.",64,351,0,2009-12-01 10:27:06+00:00
-jamesknelson,James K Nelson,FRONTEND ARMORY,"Tokyo, Japan",,True,,137,1105,5,2009-12-04 03:39:47+00:00
+jamesknelson,James K Nelson,FRONTEND ARMORY,"Tokyo, Japan",,TRUE,,137,1105,5,2009-12-04 03:39:47+00:00
 kazu-yamamoto,Kazu Yamamoto,IIJ INNOVATION INSTITUTE INC,"Tokyo, JAPAN",,,,138,549,3,2009-12-10 07:07:16+00:00
-jojonki,Junki Ohmura,SONY,Tokyo,,True,"Sony Researcher. Previously, visiting researcher at Language Technologies Institute, Carnegie Mellon University.
+jojonki,Junki Ohmura,SONY,Tokyo,,TRUE,"Sony Researcher. Previously, visiting researcher at Language Technologies Institute, Carnegie Mellon University.
 Email: junki dot ohmura at gmail.",131,211,57,2009-12-13 04:32:53+00:00
 nineties,Koichi NAKAMURA,IDEIN INC.,"Tokyo, Japan",koichi@idein.jp,,CEO&Founder of https://idein.jp,36,340,7,2009-12-27 12:16:19+00:00
 suguru,Suguru Namura,,Tokyo,,,,48,407,12,2009-12-27 15:33:48+00:00
-Songmu,Masayuki Matsuki,BW-COMPANY,"Tokyo, Japan",y.songmu@gmail.com,True,Just a software engineer loves OSS,238,563,209,2010-01-06 03:01:07+00:00
-shirou,shirou,,Tokyo,shirou.faw@gmail.com,True,,156,485,0,2010-01-06 07:28:08+00:00
-mactkg,mactkg,RECRUIT-MP,"Tokyo, Japan",,True,programmer,271,281,720,2010-01-08 08:26:20+00:00
+Songmu,Masayuki Matsuki,BW-COMPANY,"Tokyo, Japan",y.songmu@gmail.com,TRUE,Just a software engineer loves OSS,238,563,209,2010-01-06 03:01:07+00:00
+shirou,shirou,,Tokyo,shirou.faw@gmail.com,TRUE,,156,485,0,2010-01-06 07:28:08+00:00
+mactkg,mactkg,RECRUIT-MP,"Tokyo, Japan",,TRUE,programmer,271,281,720,2010-01-08 08:26:20+00:00
 sile,Takeru Ohta,,"Tokyo, Japan",phjgt308@gmail.com,,,302,413,8,2010-01-13 13:18:41+00:00
 sideshowbarker,,,Tokyo,sideshowbarker@gmail.com,,,58,695,2,2010-02-03 01:32:44+00:00
-2bbb,2bit,歯茎を噛むと林檎から血が出る,Tokyo,github@2bit.jp,True,"nonsense coder, chore engineer
+2bbb,2bit,歯茎を噛むと林檎から血が出る,Tokyo,github@2bit.jp,TRUE,"nonsense coder, chore engineer
 歯茎を噛むと林檎から血が出る @HagukiWoKamuToRingoKaraTiGaDeru 
 石井通人プログラム事務所 @IshiiTsuubitoProgramOffice ",277,211,87,2010-02-10 08:44:01+00:00
 halogenandtoast,Matthew Mongeau,MERCURYTECHNOLOGIES,"Tokyo, JP",halogenandtoast@gmail.com,,Haskell developer working at Mercury,121,242,3,2010-02-10 19:39:34+00:00
-OTL,Takashi Ogura,"SYNCHROBO, INC",Tokyo,t.ogura@gmail.com,True,"roboticist, Synchrobo CEO
+OTL,Takashi Ogura,"SYNCHROBO, INC",Tokyo,t.ogura@gmail.com,TRUE,"roboticist, Synchrobo CEO
 ex-Googler, ex-Toyota",94,202,45,2010-02-20 02:38:34+00:00
 edom18,edo,MESON,Tokyo,,,,178,224,92,2010-02-22 05:25:57+00:00
 yomotsu,Akihiro Oyamada,"PIXELGRID, INC","Tokyo, Japan",,,,114,538,11,2010-03-01 01:10:26+00:00
@@ -182,29 +182,29 @@ summerwind,Moto Ishizawa,,"Tokyo, Japan",,,I'm just learning the internet.,49,28
 tagomoris,Satoshi Tagomori,SAKURA INTERNET,Tokyo,tagomoris@gmail.com,,"A maintainer of Fluentd, msgpack-ruby and the original author of Norikra, Woothee and many others.
 Distributed systems / Data processing.",183,459,0,2010-03-26 02:11:50+00:00
 blueimp,Sebastian Tschan,BLUEIMP.NET,"Tokyo, Japan",,,🍌banana banana banana,35,4044,0,2010-04-15 12:14:30+00:00
-glassesfactory,YAMAGUCHI EIKICHI,,"tokyo,setagaya",megane@glasses-factory.net,True,,67,1272,345,2010-04-17 11:37:13+00:00
+glassesfactory,YAMAGUCHI EIKICHI,,"tokyo,setagaya",megane@glasses-factory.net,TRUE,,67,1272,345,2010-04-17 11:37:13+00:00
 koute,Koute,PARITYTECH,"Tokyo, Japan",,,KSM: HTk3eccL7WBkiyxz1gBcqQRghsJigoDMD7mnQaz1UAbMpQV,109,699,1,2010-04-18 11:49:27+00:00
 yoichiro,Yoichiro Tanaka,"TABLY, INC.","Tokyo, Japan",yoichiro@eisbahn.jp,,,125,232,77,2010-05-02 08:05:57+00:00
-diwu,diwup,,"Tokyo, Japan",,True,,20,427,7,2010-05-08 03:22:19+00:00
+diwu,diwup,,"Tokyo, Japan",,TRUE,,20,427,7,2010-05-08 03:22:19+00:00
 uwi,Uwi Tenpen,"PIRIKA, INC.","Hachioji, Tokyo",,,,9,346,0,2010-05-08 16:34:11+00:00
-polm,Paul O'Leary McCann,COTONOHA,"麻布十番, Tokyo",polm@dampfkraft.com,True,NLP consultant in Tokyo. ,136,324,84,2010-05-25 05:02:09+00:00
+polm,Paul O'Leary McCann,COTONOHA,"麻布十番, Tokyo",polm@dampfkraft.com,TRUE,NLP consultant in Tokyo. ,136,324,84,2010-05-25 05:02:09+00:00
 ArvinH,Huang Shuo-Han,,"Tokyo, Japan / Taipei, Taiwan",arvin0731@gmail.com,,🏂  Front-end engineer 🏄🏻‍♂️,77,204,377,2010-05-25 17:36:36+00:00
 nagadomi,,,"Tokyo, Japan",,,,57,1624,29,2010-05-26 02:28:40+00:00
 jfbastien,JF Bastien,,"Tokyo, Japan",,,Jest-in-Time compiler. Assembler of Webs. C++ standards committee punster. Not a Blade Runner character.,69,571,33,2010-06-06 18:52:08+00:00
-int128,Hidetake Iwata,QUIPPER,"Tokyo, Japan",int128@gmail.com,True,Software Engineer. Father of my family. Loving 🐰 rabbits and 🍺 craft beer.,281,247,98,2010-07-02 15:59:04+00:00
+int128,Hidetake Iwata,QUIPPER,"Tokyo, Japan",int128@gmail.com,TRUE,Software Engineer. Father of my family. Loving 🐰 rabbits and 🍺 craft beer.,281,247,98,2010-07-02 15:59:04+00:00
 Jxck,Jxck,,"Tokyo, Japan",jxck@jxck.io,,Web Developer in Japan,117,551,3,2010-07-04 05:17:34+00:00
 MagicalTux,Mark Karpelès,,"Tokyo, Japan",,,,96,247,1,2010-07-16 03:54:35+00:00
 rdiankov,Ross Diankov,MUJIN INC,"Tokyo, Japan",rosen.diankov@gmail.com,,,12,275,0,2010-07-24 21:28:29+00:00
-sugi-cho,Hironori Sugino,SUGI.CC,tokyo,hi@sugi.cc,True,a freelance programmer based in Tokyo.,101,448,7,2010-07-28 04:36:11+00:00
+sugi-cho,Hironori Sugino,SUGI.CC,tokyo,hi@sugi.cc,TRUE,a freelance programmer based in Tokyo.,101,448,7,2010-07-28 04:36:11+00:00
 fenomas,Andy Hall (fenomas),,Tokyo,,,"I'm making a game, a voxel engine, procedural music, and other things.",74,214,26,2010-08-03 03:38:29+00:00
-hewigovens,Tao Xu,,Tokyo,,True,A 🥷 Developer,216,673,243,2010-08-11 02:57:38+00:00
+hewigovens,Tao Xu,,Tokyo,,TRUE,A 🥷 Developer,216,673,243,2010-08-11 02:57:38+00:00
 tado,Atsushi Tadokoro,YOPPA.ORG,Tokyo,tadokoro@gmail.com,,,139,672,11,2010-08-13 10:27:16+00:00
 karupanerura,karupanerura,D,"Tokyo, Japan",karupanerura@gmail.com,,"Web Engineer. Japan Perl Association Chief Director. Shibuya.pm Organizer. Mackerel Users Group Organizer.
 #Perl #Go #Java #TypeScript",308,262,496,2010-08-24 12:34:38+00:00
 supermomonga,supermomonga,,Tokyo,,,"Emacs, Vim, Ruby",247,233,126,2010-08-26 17:40:43+00:00
 marioyc,Mario Ynocente Castro,SONYAI,"Tokyo, Japan",,,,53,319,8,2010-09-01 04:30:32+00:00
-yuki24,Yuki Nishijima,,"Tokyo, Japan",,True,Ruby commiter,61,542,54,2010-09-03 08:42:03+00:00
-arubdesu,Allister Banks,,"Tokyo, Japan",,True,Excitable,79,245,367,2010-09-06 01:40:14+00:00
+yuki24,Yuki Nishijima,,"Tokyo, Japan",,TRUE,Ruby commiter,61,542,54,2010-09-03 08:42:03+00:00
+arubdesu,Allister Banks,,"Tokyo, Japan",,TRUE,Excitable,79,245,367,2010-09-06 01:40:14+00:00
 xuwei-k,kenji yoshida,,Tokyo,,,"
 @wartremover 
 @scalaz
@@ -214,149 +214,149 @@ xuwei-k,kenji yoshida,,Tokyo,,,"
 @scalikejdbc 
 @unfiltered ",1046,858,691,2010-09-06 19:51:07+00:00
 dennybritz,Denny Britz,,"Tokyo, Japan",,,"High-school dropout. Ex Google Brain, Stanford, Berkeley. Into Startups, Deep Learning. Writing at wildml.com  and dennybritz.com",61,9471,6,2010-09-16 18:32:26+00:00
-ahomu,Ayumu Sato,,"Tokyo, Japan",mail@ayumusato.com,True,,61,285,39,2010-09-17 11:20:14+00:00
-mapconcierge,Taichi FURUHASHI,MAPCONCIERGE,Tokyo,,True,"Professor of Aoyama Gakuin Univ./President of MAPconcierge & CrisisMappers Japan/CSIS,Univ. of Tokyo/Mapbox/OSGeoJP & OSMFJ/GISNEXT",281,230,331,2010-09-27 01:48:51+00:00
-tmk,hasu@tmk,,"Tokyo, Japan",,True,a keyboard enthu,44,606,16,2010-10-02 16:22:52+00:00
+ahomu,Ayumu Sato,,"Tokyo, Japan",mail@ayumusato.com,TRUE,,61,285,39,2010-09-17 11:20:14+00:00
+mapconcierge,Taichi FURUHASHI,MAPCONCIERGE,Tokyo,,TRUE,"Professor of Aoyama Gakuin Univ./President of MAPconcierge & CrisisMappers Japan/CSIS,Univ. of Tokyo/Mapbox/OSGeoJP & OSMFJ/GISNEXT",281,230,331,2010-09-27 01:48:51+00:00
+tmk,hasu@tmk,,"Tokyo, Japan",,TRUE,a keyboard enthu,44,606,16,2010-10-02 16:22:52+00:00
 r-plus,r-plus,,"Tokyo, Japan",,,,164,247,71,2010-10-03 10:34:28+00:00
 TimOliver,Tim Oliver,INSTAGRAM,"Perth, Australia + Tokyo, Japan",me@timoliver.com.au,,"Gamer. Developer. Geek. iOS Software Engineer at @Instagram (prev. @Drivemode, @Realm). Lover of writing OSS code and singer of bad karaoke. 
 
 日本語もオッケ〜",142,1370,176,2010-10-06 06:04:08+00:00
-hiloki,Hiroki Tani,"FIGMA, INC.","Tokyo, Japan.",,True,"Designer, Developer & ❤️ 🐕 ☕",119,275,27,2010-10-19 12:02:03+00:00
+hiloki,Hiroki Tani,"FIGMA, INC.","Tokyo, Japan.",,TRUE,"Designer, Developer & ❤️ 🐕 ☕",119,275,27,2010-10-19 12:02:03+00:00
 j5ik2o,Junichi Kato,CHATWORK INC.,"Arakawa-ku, Tokyo, Japan",j5ik2o@gmail.com,,"I'm a tech-lead in the Chatwork Inc, is lover to Scala/Rust, Akka, DDD/CQRS+Event Sourcing.",175,439,382,2010-10-31 14:52:36+00:00
 koron,MURAOKA Taro,,"Tokyo, Japan",koron.kaoriya@gmail.com,,"Vim user, slave of IT and cats.
 Specialist soiling shirt.",357,340,11,2010-11-05 03:38:52+00:00
 iwiwi,Takuya Akiba,,"Tokyo, Japan",,,,51,385,40,2010-11-06 06:04:16+00:00
 rakshasa,Jari Sundell,,Tokyo,sundell.software@gmail.com,,,35,438,0,2010-11-10 03:46:18+00:00
 chokkan,Naoaki Okazaki,TOKYO INSTITUTE OF TECHNOLOGY,"Tokyo, Japan",,,,18,282,0,2010-11-12 10:06:13+00:00
-Cloudef,Jari Vetoniemi,,"Tokyo, Japan",jari.vetoniemi@cloudef.pw,True,"Available for contract work⠀   ⠀  ⠀  ⠀  ⠀      ⠀ 委託契約書の機会を探しています   
+Cloudef,Jari Vetoniemi,,"Tokyo, Japan",jari.vetoniemi@cloudef.pw,TRUE,"Available for contract work⠀   ⠀  ⠀  ⠀  ⠀      ⠀ 委託契約書の機会を探しています   
 Saatavilla konsulttina",129,309,26,2010-11-13 18:09:56+00:00
-dai-shi,Daishi Kato,FREELANCER,Tokyo,,True,"React library author, maintaining three state management libraries, Zustand🐻, Jotai👻, Valtio🧙, and React framework, Waku⛩️.",128,6945,1,2010-11-21 12:26:31+00:00
+dai-shi,Daishi Kato,FREELANCER,Tokyo,,TRUE,"React library author, maintaining three state management libraries, Zustand🐻, Jotai👻, Valtio🧙, and React framework, Waku⛩️.",128,6945,1,2010-11-21 12:26:31+00:00
 k-okada,Kei Okada,,"Tokyo, Japan",,,,316,266,6,2010-11-23 11:37:25+00:00
 shuhei,Shuhei Kagawa,,"Tokyo, Japan",shuhei.kagawa@gmail.com,,I like 🧋,186,329,167,2010-11-27 03:13:34+00:00
 plouc,Raphaël Benitte,,Tokyo,,,,101,1005,3,2010-11-29 10:53:04+00:00
-karlcow,Karl Dubost,APPLE,"Tokyo, Japan",karl+github@la-grange.net,True,Debugging. Most of the time. @webcompat (@Webkit at @Apple ),97,259,70,2010-12-01 16:33:25+00:00
+karlcow,Karl Dubost,APPLE,"Tokyo, Japan",karl+github@la-grange.net,TRUE,Debugging. Most of the time. @webcompat (@Webkit at @Apple ),97,259,70,2010-12-01 16:33:25+00:00
 koki0702,Koki Saitoh,PREFERRED NETWORKS,Tokyo,koki0702@gmail.com,,"ゼロから作るのが好きです。著書に『ゼロから作るDeep Learning』など。
 ",22,287,6,2010-12-09 05:58:23+00:00
 axzxs2001,桂素伟,,Tokyo,axzxs2001@163.com,,专注于基于.net core的微服务！,63,355,0,2010-12-14 05:55:40+00:00
 yamahigashi,,,"Tokyo, Japan",yamahigashi+github@gmail.com,,"Pipeline TD, Rigger and Technical Artist",62,249,1030,2010-12-15 02:52:20+00:00
 koriym,Akihito Koriyama,,"Tokyo, Japan",akihito.koriyama@gmail.com,,A Tokyo based PHP developer @bearsunday @auraphp,208,226,17,2010-12-19 01:16:45+00:00
-kotakanbe,Kota Kanbe,"FUTURE ARCHITECT, INC. JAPAN",Tokyo,kotakanbe@gmail.com,True,,30,211,27,2010-12-23 14:27:10+00:00
+kotakanbe,Kota Kanbe,"FUTURE ARCHITECT, INC. JAPAN",Tokyo,kotakanbe@gmail.com,TRUE,,30,211,27,2010-12-23 14:27:10+00:00
 huydx,huydx,,Tokyo,,,,127,581,31,2010-12-24 16:45:41+00:00
 morizotter,Morita Naoki,FREELANCE,Tokyo,,,Traveller. ,101,203,249,2010-12-26 14:44:43+00:00
 lambdalisue,Λlisue,"FIXPOINT, INC.","Tokyo, Japan",lambdalisue@gmail.com,,"Vim, Python, Rust, Deno
 
 Λlisue := ""Ali sue"" or ""ありすえ""",500,772,310,2011-01-04 01:27:57+00:00
-syohex,Shohei YOSHIDA,,"Tokyo, Japan",syohex@gmail.com,True,A programmer,2111,754,156,2011-01-09 15:09:15+00:00
-yosuke-furukawa,Yosuke Furukawa,,Tokyo,yosuke.furukawa@gmail.com,True,,243,559,20,2011-01-10 13:54:07+00:00
+syohex,Shohei YOSHIDA,,"Tokyo, Japan",syohex@gmail.com,TRUE,A programmer,2111,754,156,2011-01-09 15:09:15+00:00
+yosuke-furukawa,Yosuke Furukawa,,Tokyo,yosuke.furukawa@gmail.com,TRUE,,243,559,20,2011-01-10 13:54:07+00:00
 shanzi,Chase Zhang,IO-METER.COM,"Tokyo, Japan",,,,47,709,201,2011-01-11 12:00:34+00:00
-xerpi,Sergi Granell・セルジ,ARKEDGE,Tokyo,xerpi.g.12@gmail.com,True,Low-level developer,137,617,56,2011-01-12 17:38:38+00:00
+xerpi,Sergi Granell・セルジ,ARKEDGE,Tokyo,xerpi.g.12@gmail.com,TRUE,Low-level developer,137,617,56,2011-01-12 17:38:38+00:00
 shibukawa,Yoshiki Shibukawa,"FUTURE ARCHITECT, INC.",Tokyo,yoshiki@shibu.jp,,,271,226,7,2011-01-14 12:54:17+00:00
 youtalk,Yutaka Kondo,TIER4,"Tokyo, Japan",yutaka.kondo@youtalk.jp,,Software Engineer at TIER IV,92,224,24,2011-01-23 15:59:23+00:00
-shu223,Shuichi Tsutsumi,,"Tokyo, Japan",,True,Freelance iOS Programmer,76,3466,40,2011-01-28 01:49:01+00:00
+shu223,Shuichi Tsutsumi,,"Tokyo, Japan",,TRUE,Freelance iOS Programmer,76,3466,40,2011-01-28 01:49:01+00:00
 everpeace,Shingo Omura,"WOVEN BY TOYOTA, INC.","Tokyo, JAPAN",everpeace@gmail.com,,Distributed Software Architect/Engineer⎈,251,301,15,2011-02-09 13:22:11+00:00
-kt3k,Yoshiya Hinosawa,DENOLAND,"Tokyo, Japan",,True,A web dev in 🇯🇵. Work on @denoland. Current hobby: VSCode Custom Editor,711,923,403,2011-02-12 04:37:18+00:00
+kt3k,Yoshiya Hinosawa,DENOLAND,"Tokyo, Japan",,TRUE,A web dev in 🇯🇵. Work on @denoland. Current hobby: VSCode Custom Editor,711,923,403,2011-02-12 04:37:18+00:00
 domenic,Domenic Denicola,GOOGLE,"Tokyo, Japan",d@domenic.me,,,216,5405,79,2011-02-14 15:26:22+00:00
-kevincobain2000,Pulkit Kathuria,"RAKUTEN GROUP, PRE: GREE INC.","Tokyo, Japan",,True,,147,220,60,2011-02-21 00:51:28+00:00
-tokorom,tokorom,SPINNERS INC.,"狛江, Tokyo",tokorom@gmail.com,True,iOS/tvOS/visionOS App Programmer,204,216,44,2011-02-21 14:25:01+00:00
-koxudaxi,Koudai Aono,MIRASCOPE,"Tokyo, Japan",koxudaxi@gmail.com,True,"I am a software engineer focusing on Python 🐍 and Open Source contributions 💻🌐.
+kevincobain2000,Pulkit Kathuria,"RAKUTEN GROUP, PRE: GREE INC.","Tokyo, Japan",,TRUE,,147,220,60,2011-02-21 00:51:28+00:00
+tokorom,tokorom,SPINNERS INC.,"狛江, Tokyo",tokorom@gmail.com,TRUE,iOS/tvOS/visionOS App Programmer,204,216,44,2011-02-21 14:25:01+00:00
+koxudaxi,Koudai Aono,MIRASCOPE,"Tokyo, Japan",koxudaxi@gmail.com,TRUE,"I am a software engineer focusing on Python 🐍 and Open Source contributions 💻🌐.
 ",55,424,10,2011-02-21 20:40:46+00:00
-yshrsmz,Yasuhiro SHIMIZU,"CYBERAGENT, INC.","Tokyo, Japan",the.phantom.bane+github@gmail.com,True,Android/Web developer,155,214,77,2011-03-07 04:05:18+00:00
+yshrsmz,Yasuhiro SHIMIZU,"CYBERAGENT, INC.","Tokyo, Japan",the.phantom.bane+github@gmail.com,TRUE,Android/Web developer,155,214,77,2011-03-07 04:05:18+00:00
 mitmul,Shunta Saito,PFNET,"Tokyo, Japan",shunta.saito@gmail.com,,"Ph.D in Engineering, Kaggle Master, Researcher at Preferred Networks, Inc.",128,414,50,2011-03-13 04:26:23+00:00
 kitao,Takashi Kitao,,"Tokyo, Japan",takashi.kitao@gmail.com,,"Developer of Pyxel, a retro game engine for Python. Former game developer. Lead programmer of ""Zone of the Enders"" series for PlayStation.",26,590,0,2011-03-19 15:33:14+00:00
 inket,Mahdi Bchatnia,WOLTAPP,"Tokyo, Japan",,,,72,258,37,2011-03-19 22:06:15+00:00
 dtan4,Daisuke Fujita,"MERCARI, INC. @MERCARI","Tokyo, Japan",,,:eyes:,259,248,14,2011-03-20 16:10:58+00:00
 wix,Wix.com,,"Tel Aviv, Be'er Sheva, Haifa, Vilnius, Kyiv, Dnipro, New York, San Francisco, Miami, Los Angeles, Phoenix, Denver, Berlin, Sao Paulo, Vancouver, Dublin, Tokyo",,,Open-sourcing useful pieces of code,19,563,0,2011-03-23 16:40:49+00:00
-dvcrn,David,"MERCARI, @SAIFUWALLET",Tokyo,,True,I build things professionally and as hobby. Based out of Tokyo 🇯🇵,140,219,45,2011-03-24 13:45:16+00:00
+dvcrn,David,"MERCARI, @SAIFUWALLET",Tokyo,,TRUE,I build things professionally and as hobby. Based out of Tokyo 🇯🇵,140,219,45,2011-03-24 13:45:16+00:00
 maropu,Takeshi Yamamuro,,Tokyo/Japan,yamamuro@apache.org,,"OSS engineer@R&D, Ph.D. in CS (Database Systems) - Apache Spark PMC&committer, Apache Hivemall PPMC, PostgreSQL enthusiast - LLVM/C/C++03/Java/Scala/Rust/Python",63,259,0,2011-03-26 17:59:22+00:00
 gkjohnson,Garrett Johnson,TOYOTA WOVEN PLANET,"Tokyo, Japan",,,"Working on graphics for the city of the future, space robots, path tracing, and having a good time.",106,1269,9,2011-04-17 01:49:29+00:00
-foostan,Kosuke Adachi,"MERPAY, INC.",Tokyo,ks@fstn.jp,True,❤️ ☕️ ⌨️,122,629,13,2011-04-18 09:20:58+00:00
+foostan,Kosuke Adachi,"MERPAY, INC.",Tokyo,ks@fstn.jp,TRUE,❤️ ☕️ ⌨️,122,629,13,2011-04-18 09:20:58+00:00
 Live2D,Live2D,,Tokyo,,,Open code straight from Japan.,18,291,0,2011-04-23 08:10:18+00:00
 uhyo,uhyo,,Tokyo,uhyo@uhy.ooo,,A ソフトウェア engineer who loves TypeScript,197,568,13,2011-04-24 04:27:49+00:00
 egisatoshi,Satoshi Egi,RAKUTEN AND UTOKYO,"Tokyo, Japan",egi@egison.org,,The creator of the @egison programming language.,77,317,103,2011-04-27 04:44:35+00:00
 fumieval,Fumiaki Kinoshita,"HERP, INC.",Tokyo,fumiexcel@gmail.com,,Bird lover,207,275,52,2011-05-01 13:25:25+00:00
-ikegami-yukino,IKEGAMI Yukino,,"Tokyo, Japan",yknikgm@gmail.com,True,(Natural Language Processing) Software developer.,42,339,25,2011-05-11 06:23:57+00:00
+ikegami-yukino,IKEGAMI Yukino,,"Tokyo, Japan",yknikgm@gmail.com,TRUE,(Natural Language Processing) Software developer.,42,339,25,2011-05-11 06:23:57+00:00
 shigeki,Shigeki Ohtsu,,"Tokyo, Japan",,,,52,261,7,2011-05-12 02:18:54+00:00
-thagikura,Takeshi Hagikura,,"Tokyo, Japan",,True,,57,1224,1,2011-05-18 17:43:22+00:00
-shogo4405,shogo4405,,"Tokyo, Japan",,True,,19,249,0,2011-05-25 16:00:59+00:00
-nobnak,Nakata Nobuyuki (仲田将之),TEAMLAB,"Tokyo, Japan",nobu.nakata@gmail.com,True,Game Programmer of Digital Arts and its Interactive Installations,199,475,3,2011-05-27 03:34:53+00:00
+thagikura,Takeshi Hagikura,,"Tokyo, Japan",,TRUE,,57,1224,1,2011-05-18 17:43:22+00:00
+shogo4405,shogo4405,,"Tokyo, Japan",,TRUE,,19,249,0,2011-05-25 16:00:59+00:00
+nobnak,Nakata Nobuyuki (仲田将之),TEAMLAB,"Tokyo, Japan",nobu.nakata@gmail.com,TRUE,Game Programmer of Digital Arts and its Interactive Installations,199,475,3,2011-05-27 03:34:53+00:00
 melpon,melpon,,"Tokyo, Japan",shigemasa7watanabe+github@gmail.com,,,59,256,28,2011-05-29 02:19:41+00:00
 zonuexe,USAMI Kenta,PIXIV INC. AND @EMACS-PHP,"Shibuya, Tokyo, Japan",tadsan@zonu.me,,All my English is bad. Anyone can replace all my sentences. ヾ(〃＞＜)ﾉﾞ☆ < I'm tadsan.,354,366,246,2011-06-01 02:52:42+00:00
-rhysd,Linda_pp,"#""><IMG SRC=X ONERROR=ALERT('👋🐶');>","Tokyo, Japan",,True,A dog enjoying software development (with bugs),577,1800,31,2011-06-01 14:46:43+00:00
-matthew-andrews,Matt Andrews,WOVEN BY TOYOTA,"Tokyo, Japan",matt@mattandre.ws,True,Product Manager in Tokyo,143,440,43,2011-06-02 10:30:51+00:00
-mariotaku,Mariotaku,,"Tokyo, Japan",mariotaku.lee@gmail.com,True,,142,2211,38,2011-06-05 05:04:54+00:00
+rhysd,Linda_pp,"#""><IMG SRC=X ONERROR=ALERT('👋🐶');>","Tokyo, Japan",,TRUE,A dog enjoying software development (with bugs),577,1800,31,2011-06-01 14:46:43+00:00
+matthew-andrews,Matt Andrews,WOVEN BY TOYOTA,"Tokyo, Japan",matt@mattandre.ws,TRUE,Product Manager in Tokyo,143,440,43,2011-06-02 10:30:51+00:00
+mariotaku,Mariotaku,,"Tokyo, Japan",mariotaku.lee@gmail.com,TRUE,,142,2211,38,2011-06-05 05:04:54+00:00
 k-takata,K.Takata,,"Tokyo, Japan",,,,82,301,17,2011-06-09 14:57:23+00:00
 Layzie,HIRAKI Satoru,"MEDLEY, INC.","Tokyo, Japan",guardian.bell2064@fastmail.com,, Software Engineer,66,270,462,2011-06-12 06:02:10+00:00
 nateberkopec,Nate Berkopec,SPEEDSHOP,"Tokyo, JP",me@nateberkopec.com,,"Owner @ https://www.speedshop.co, author of www.railsspeed.com.",127,960,58,2011-06-12 20:17:39+00:00
 soda-x,Soda,自由职业,Tokyo,jiangjay818@gmail.com,,中老年编程爱好者,113,604,11,2011-06-14 03:29:31+00:00
-suin,,"CRAFTSMAN SOFTWARE, INC.",Japan Tokyo,,True,Qiita2万コントリビューション／『実践ドメイン駆動設計』書籍邦訳レビュア／分報Slack考案／YYPHP主催／CodeIQマガジン執筆／38日間Goの執筆／株式会社クラフトマンソフトウェア創設／Web自動テスト「ShouldBee」の開発／PHP／DDD／Scala／Docker／OOP／Go／@reoring ,190,250,5,2011-06-17 00:26:27+00:00
+suin,,"CRAFTSMAN SOFTWARE, INC.",Japan Tokyo,,TRUE,Qiita2万コントリビューション／『実践ドメイン駆動設計』書籍邦訳レビュア／分報Slack考案／YYPHP主催／CodeIQマガジン執筆／38日間Goの執筆／株式会社クラフトマンソフトウェア創設／Web自動テスト「ShouldBee」の開発／PHP／DDD／Scala／Docker／OOP／Go／@reoring ,190,250,5,2011-06-17 00:26:27+00:00
 uzulla,uzulla / Junichi Ishida,FREELANCE,"Hachioji, Tokyo, JAPAN.",zishida@gmail.com,,"I love PHP.
 Ofcourse, I like other languages.",148,234,68,2011-06-23 13:50:53+00:00
-KeithYokoma,Keishin Yokomaku,"DRIVEMODE, INC.","Tokyo, Japan",Keith.Yokoma@gmail.com,True,Android and Bicycle,109,207,111,2011-06-24 05:41:46+00:00
+KeithYokoma,Keishin Yokomaku,"DRIVEMODE, INC.","Tokyo, Japan",Keith.Yokoma@gmail.com,TRUE,Android and Bicycle,109,207,111,2011-06-24 05:41:46+00:00
 rejasupotaro,Kentaro Takiguchi,,"Tokyo, Japan",takiguchi0817@gmail.com,,Relevant or Not,88,256,20,2011-06-29 04:53:30+00:00
 hideakitai,Hideaki Tai,NATURE INC.,Tokyo,hideaki.tai@gmail.com,,"Playing with HW and Media Technologies | C/C++, Rust, Arduino, KiCad, Max, TouchDesigner | Nature / FW ENG + Freelance ← Rhizomatiks / HW ENG ← Panasonic |",106,323,274,2011-07-02 04:43:55+00:00
-xeodou,xeodou,ESTEELAUDER,"Tokyo, Japan",xeodou@gmail.com,True,,112,458,58,2011-07-14 08:47:11+00:00
-lloydmeta,Lloyd,ELASTIC,Tokyo,,True,"Trying to be useful by making stuff, sharing, and learning.
+xeodou,xeodou,ESTEELAUDER,"Tokyo, Japan",xeodou@gmail.com,TRUE,,112,458,58,2011-07-14 08:47:11+00:00
+lloydmeta,Lloyd,ELASTIC,Tokyo,,TRUE,"Trying to be useful by making stuff, sharing, and learning.
 🚀ƛ🤘
 Stream[Thought]: https://mastodon.social/@lloydmeta",256,297,38,2011-07-14 11:04:41+00:00
-otiai10,Hiromu OCHIAI,"AYANEL, @TRIAX","Tokyo, Japan",otiai10@gmail.com,True,🙋 ❤️ 🍣 ,338,402,52,2011-07-22 02:17:12+00:00
+otiai10,Hiromu OCHIAI,"AYANEL, @TRIAX","Tokyo, Japan",otiai10@gmail.com,TRUE,🙋 ❤️ 🍣 ,338,402,52,2011-07-22 02:17:12+00:00
 fumiyasac,Fumiya Sakai,MOBILE APPLICATION ENGINEER,Tokyo(Otsuka),,,iOS/Android Developer & Ruby & PHP Engineer (Sometimes UI Design) PHP/Ruby/Swift/Objective-C/UI Design/HTML/CSS/JavaScript,185,247,135,2011-07-31 07:49:47+00:00
 kyubuns,kyubuns,,"Tokyo, Japan",kyubuns@gmail.com,,,129,443,128,2011-08-05 12:34:38+00:00
 yoichitgy,Yoichi Tagaya,SMARTNEWS,Tokyo,,,,38,211,99,2011-08-08 09:58:01+00:00
-ishkawa,Yosuke Ishikawa,,"Tokyo, Japan",y@ishkawa.org,True,,109,847,45,2011-08-08 16:22:34+00:00
+ishkawa,Yosuke Ishikawa,,"Tokyo, Japan",y@ishkawa.org,TRUE,,109,847,45,2011-08-08 16:22:34+00:00
 naotokui,Nao Tokui,"QOSMO, INC.",Tokyo,tokui (at) qosmo.jp,,,95,333,39,2011-08-10 01:27:15+00:00
 hamukazu,Kimikazu Kato,,Tokyo,,,"Algorithm designer, machine learning expert",70,242,4,2011-08-15 13:38:32+00:00
 Kaixhin,Kai Arulkumaran,ARAYABRAIN,Tokyo,,,"Researcher, programmer, DJ, transhumanist.",42,1107,349,2011-08-19 21:14:37+00:00
-fulmicoton,Paul Masurel,TANTIVY-SEARCH,Tokyo,paul.masurel@gmail.com,True,"Rust developer.
+fulmicoton,Paul Masurel,TANTIVY-SEARCH,Tokyo,paul.masurel@gmail.com,TRUE,"Rust developer.
 Creator of @tantivy-search",126,592,79,2011-09-02 09:10:27+00:00
 odashi,Yusuke Oda,NAIST-NLP,"Tokyo, Japan",,,"Project Associate Professor at NII,
 Affiliate Assistant Professor @naist-nlp,
 Technical Director @cierpa ",65,326,0,2011-09-03 10:17:02+00:00
 seanchas116,Ryohei Ikegami,FREELANCE,Tokyo,iofg2100@gmail.com,,,188,238,130,2011-09-04 11:35:10+00:00
-orisano,Nao Yonashiro,RECRUIT-TECH," Tokyo, Japan",yonashiro@r.recruit.co.jp,True,I'm interested in application performance.,255,260,229,2011-09-06 07:17:23+00:00
-fukayatsu,Atsuo Fukaya,ESA LLC,"Tokyo, Japan",fukayatsu@gmail.com,True,"Engineer, Co-founder of esa LLC",265,249,186,2011-09-11 04:48:46+00:00
+orisano,Nao Yonashiro,RECRUIT-TECH," Tokyo, Japan",yonashiro@r.recruit.co.jp,TRUE,I'm interested in application performance.,255,260,229,2011-09-06 07:17:23+00:00
+fukayatsu,Atsuo Fukaya,ESA LLC,"Tokyo, Japan",fukayatsu@gmail.com,TRUE,"Engineer, Co-founder of esa LLC",265,249,186,2011-09-11 04:48:46+00:00
 miquelcampos,Miquel Campos,MCSGEAR,Tokyo,,,"Character TD Consultant + 
 mGear Framework Lead Developer @mgear-dev ",36,211,218,2011-09-14 13:05:27+00:00
 privatenumber,Hiroki Osame,SQUARE,"Tokyo, Japan",,,I'm on a mission to open source my solutions 🚀,224,3427,112,2011-09-24 04:37:33+00:00
 naokishibuya,Naoki Shibuya,KIKABEN LLC,Tokyo,,,"Solopreneur @ KiKaBeN | C++, Python | AI Enthusiast",9,425,0,2011-09-24 06:53:37+00:00
-mattatz,mattatz,DETOR,"Tokyo, Japan",masatatsu.nakamura@gmail.com,True,"(3DCG | HCI | UI) programmer based in Tokyo, Japan.",76,1332,6,2011-09-28 05:01:08+00:00
+mattatz,mattatz,DETOR,"Tokyo, Japan",masatatsu.nakamura@gmail.com,TRUE,"(3DCG | HCI | UI) programmer based in Tokyo, Japan.",76,1332,6,2011-09-28 05:01:08+00:00
 kazuhikoarase,kazuhiko arase,,Tokyo,,,,48,204,0,2011-10-19 06:55:20+00:00
 masayuki0812,Masayuki Tanaka,,"Tokyo, Japan",,,,4,240,3,2011-10-21 05:06:14+00:00
-agibsonccc,Adam Gibson,HTTP://KONDUIT.AI/,Tokyo Japan,,True,Maintainer: https://deeplearning4j.konduit.ai/ reach out for MLOps.,160,549,108,2011-10-22 00:04:34+00:00
-saitoha,Hayaki Saito,,Asia/Tokyo,saitoha@me.com,True,,80,243,34,2011-10-31 15:28:51+00:00
+agibsonccc,Adam Gibson,HTTP://KONDUIT.AI/,Tokyo Japan,,TRUE,Maintainer: https://deeplearning4j.konduit.ai/ reach out for MLOps.,160,549,108,2011-10-22 00:04:34+00:00
+saitoha,Hayaki Saito,,Asia/Tokyo,saitoha@me.com,TRUE,,80,243,34,2011-10-31 15:28:51+00:00
 1024jp,1024jp,COTEDITOR,"Tokyo, Japan",,,hobby macOS developer/designer developing @coteditor mainly,34,414,11,2011-11-01 14:42:19+00:00
-bluele,Jun Kimura,DATACHAINLAB @SPEEE,"Tokyo, Japan",junkxdev@gmail.com,True,"Gopher, Rustacean",125,220,33,2011-11-03 18:00:43+00:00
+bluele,Jun Kimura,DATACHAINLAB @SPEEE,"Tokyo, Japan",junkxdev@gmail.com,TRUE,"Gopher, Rustacean",125,220,33,2011-11-03 18:00:43+00:00
 kyamagu,Kota Yamaguchi,CYBERAGENTAILAB,"Tokyo, Japan",,,Research scientist,28,451,0,2011-11-12 19:16:38+00:00
 acgotaku,雪月秋水,,Tokyo,,,,47,2263,47,2011-11-13 15:33:34+00:00
-jrjohansson,Robert Johansson,,Tokyo,jrjohansson@gmail.com,True,,28,1016,3,2011-11-16 01:02:30+00:00
+jrjohansson,Robert Johansson,,Tokyo,jrjohansson@gmail.com,TRUE,,28,1016,3,2011-11-16 01:02:30+00:00
 sobri909,Matt Greenfield,BIG PAUA,"Tokyo, Bangkok, Bali",matt@bigpaua.com,,,20,264,7,2011-11-18 07:08:15+00:00
 kjur,Kenji Urushima,,"Tokyo, Japan",,,,43,258,6,2011-11-19 14:50:08+00:00
 yaraki,Yuichi Araki,,Tokyo,,,,26,1777,10,2011-12-03 04:49:34+00:00
 ikeay,Ayaka Ikezawa,,Tokyo,,,,26,1536,3,2011-12-06 23:14:30+00:00
-mono0926,mono — Masayuki Ono,FREELANCE,"Tokyo, Japan",mono0926@gmail.com,True,"Software Engineer (Flutter/Dart, Firebase/GCP, iOS/Swift, TypeScript)
+mono0926,mono — Masayuki Ono,FREELANCE,"Tokyo, Japan",mono0926@gmail.com,TRUE,"Software Engineer (Flutter/Dart, Firebase/GCP, iOS/Swift, TypeScript)
 ",355,1165,371,2011-12-11 05:52:46+00:00
-tcnksm,Taichi Nakashima,MERCARI,tokyo,,True,,136,735,32,2011-12-11 23:48:30+00:00
+tcnksm,Taichi Nakashima,MERCARI,tokyo,,TRUE,,136,735,32,2011-12-11 23:48:30+00:00
 Quramy,Yosuke Kurami,"RECRUIT CO. LTD, NIJIBOX CO. LTD","Tokyo, Japan",yosuke.kurami@gmail.com,,"Front-end web developer. TypeScript, Angular and Vim, weapon of choice.",292,520,26,2011-12-14 13:16:47+00:00
-konifar,Yusuke Konishi,,Tokyo Japan,yahpeycoy0403@gmail.com,True,I'll be back.,148,550,7,2011-12-17 05:20:48+00:00
+konifar,Yusuke Konishi,,Tokyo Japan,yahpeycoy0403@gmail.com,TRUE,I'll be back.,148,550,7,2011-12-17 05:20:48+00:00
 guo-yu,Guo Yu,RETIRED,"Tokyo & Azumino, Japan",i@guoyu.me,,Retired. live in Tokyo & Azumino at this moment. ex-senior principal engineer at Bytedance for 6 yrs. Founder of @ChecksFinance & @CodeforDAO,209,5110,121,2011-12-17 12:23:52+00:00
-m3m0r7,memory,"LIIGA, INC. IN @HOWTV","Tokyo, Japan",memory.style.serv@gmail.com,True,I am a cat,24,215,37,2011-12-23 23:20:06+00:00
+m3m0r7,memory,"LIIGA, INC. IN @HOWTV","Tokyo, Japan",memory.style.serv@gmail.com,TRUE,I am a cat,24,215,37,2011-12-23 23:20:06+00:00
 unity3d-jp,Unity Technologies Japan,,Tokyo,,,,68,554,0,2012-01-13 05:05:02+00:00
 mpyw,mpyw,,"Tokyo, Japan",mpyw628@gmail.com,,PHP and Laravel Expert Developer/Engineer. Interested in Go/TypeScript/Kotlin/Rust,56,543,107,2012-01-19 07:31:41+00:00
 shibayan,Tatsuro Shibamura,FREELANCE,"Tokyo, Japan",me@shibayan.jp,,Developer / Microsoft MVP for Microsoft Azure / Windows on Arm Enthusiast,115,312,23,2012-01-20 01:59:20+00:00
-archseer,Blaž Hrastnik,MXXN,"Tokyo, Japan",,True,,103,559,12,2012-01-23 23:14:56+00:00
+archseer,Blaž Hrastnik,MXXN,"Tokyo, Japan",,TRUE,,103,559,12,2012-01-23 23:14:56+00:00
 moznion,moznion,,"Tokyo, Japan",moznion@mail.moznion.net,,,449,283,123,2012-02-09 12:23:10+00:00
-fqj1994,Qijiang Fan,GOOGLE,Tokyo,,True,,29,247,19,2012-02-14 11:09:29+00:00
-taiki45,Taiki Ono,FINATEXT HOLDINGS LTD.,Tokyo/Japan,,True,Software Engineer focusing on application platform and developer productivity. Opinions my own.,136,208,25,2012-02-22 05:27:23+00:00
+fqj1994,Qijiang Fan,GOOGLE,Tokyo,,TRUE,,29,247,19,2012-02-14 11:09:29+00:00
+taiki45,Taiki Ono,FINATEXT HOLDINGS LTD.,Tokyo/Japan,,TRUE,Software Engineer focusing on application platform and developer productivity. Opinions my own.,136,208,25,2012-02-22 05:27:23+00:00
 rmackay9,Randy Mackay,JAPAN DRONES,"Tokyo, Japan",rmackay9@yahoo.com,,Lead developer of ArduPilot's multicopter software.  ArduPilot is the world's most advanced and widely used open source autonomous drone system,29,592,3,2012-03-04 00:02:57+00:00
 lacolaco,Suguru Inatomi,,"Tokyo, Japan",,,"Google Developers Expert for Angular
 Trust me, I'm a programmer.",187,651,40,2012-03-12 14:44:37+00:00
 brettwooldridge,Brett Wooldridge,"LOGICVEIN, INC","Tokyo, Japan",,,"Vice President and Lead Architect of Software Development.  Father of an angel who fell to Earth and somehow into my life.
 ",91,1885,3,2012-03-15 01:16:19+00:00
 kazunori279,Kaz Sato,"GOOGLE, INC.","Tokyo, Japan",kazunori279@gmail.com,,"Staff Developer Advocate, Cloud AI, Google Inc. See the URL for details.",29,410,10,2012-04-08 12:21:14+00:00
-frandiox,Fran Dios,,Tokyo,,True,[object Object],128,317,41,2012-04-11 18:16:09+00:00
+frandiox,Fran Dios,,Tokyo,,TRUE,[object Object],128,317,41,2012-04-11 18:16:09+00:00
 pixiv,pixiv Inc.,,Tokyo,,,,55,219,0,2012-04-19 04:10:48+00:00
 hiroakioishi,,,Tokyo,,,,36,203,59,2012-04-30 15:57:06+00:00
-creasty,Yuki Iwanaga,CREASTY,"Tokyo, Japan",yuki@creasty.com,True,A full-stack engineer pursuing beauty in both design and engineering.,79,207,61,2012-05-01 13:58:25+00:00
-sinhrks,Sinhrks,,"Tokyo, Japan",sinhrks@gmail.com,True,,50,247,0,2012-05-01 18:36:31+00:00
+creasty,Yuki Iwanaga,CREASTY,"Tokyo, Japan",yuki@creasty.com,TRUE,A full-stack engineer pursuing beauty in both design and engineering.,79,207,61,2012-05-01 13:58:25+00:00
+sinhrks,Sinhrks,,"Tokyo, Japan",sinhrks@gmail.com,TRUE,,50,247,0,2012-05-01 18:36:31+00:00
 alantian,Yingtao Tian,,Tokyo,,,,14,218,96,2012-05-03 07:11:37+00:00
 mitsuruog,Mitsuru Ogawa,"GIVERY, INC.",Japan Tokyo,mitsuru.ogawa.jp+github@gmail.com,,I am a frontend developer who is always happy to hack and learn something new.,184,232,194,2012-05-03 17:11:43+00:00
 aamine,Minero Aoki,TREASURE-DATA,Tokyo,,,,22,210,1,2012-05-03 19:04:39+00:00
@@ -364,88 +364,88 @@ yukinaga,yuky_az,"SAI-LAB CO., LTD.","Tokyo, Japan",yuky.azuma@gmail.com,,R&D + 
 Lewuathe,Kai Sasaki,TREASURE DATA,Tokyo,lewuathe@me.com,,"""The people who are crazy enough to think they can change the world, are the ones who do.""",118,395,213,2012-05-07 11:47:11+00:00
 watilde,Daijiro Wachi,YUIMEDI,Tokyo,daijiro.wachi@gmail.com,,Node.js Core Collaborator,556,708,187,2012-05-08 10:18:33+00:00
 miyako,Keisuke Miyako,4D,"Tokyo, Japan",keisuke.miyako@4d.com,,,634,246,14,2012-05-10 03:03:53+00:00
-kitasuke,Yusuke Kita,,"Tokyo, Japan",,True,Software Engineer,48,363,50,2012-05-12 08:48:57+00:00
+kitasuke,Yusuke Kita,,"Tokyo, Japan",,TRUE,Software Engineer,48,363,50,2012-05-12 08:48:57+00:00
 Grabacr07,Manato Kameya,LIFEBEAR,"Tokyo, Japan",me@patchou.li,,CTO at @lifebear,14,418,40,2012-05-25 19:10:53+00:00
-1000ch,Shogo Sensui,,"Tokyo, Japan",shogosensui@gmail.com,True,"Advisor at @PRTIMES, @macromill and @sweatequityjp. ",250,602,24,2012-05-31 17:42:31+00:00
+1000ch,Shogo Sensui,,"Tokyo, Japan",shogosensui@gmail.com,TRUE,"Advisor at @PRTIMES, @macromill and @sweatequityjp. ",250,602,24,2012-05-31 17:42:31+00:00
 uchan-nos,Kota UCHIDA,"CYBOZU LABS, INC.",Tokyo,uchan@uchan.net,,"Cybozu Labs, Inc. /
 Hobby OS developer",51,277,2,2012-06-07 05:05:38+00:00
-wasabeef,Daichi Furiya,"CYBERAGENT, INC.","Tokyo, Japan",,True,Google Developers Expert for Android,46,9369,60,2012-06-09 13:46:37+00:00
+wasabeef,Daichi Furiya,"CYBERAGENT, INC.","Tokyo, Japan",,TRUE,Google Developers Expert for Android,46,9369,60,2012-06-09 13:46:37+00:00
 mitchan0321,SATO Mitsuhide,,"Tokyo, Japan",sato.mitsuhide@gmail.com,,,5,262,347,2012-06-10 04:55:13+00:00
-masuhara,Daisuke Masuhara,,Tokyo,info@masuhara.net,True,Educator/iOS Developer/Rapper,113,355,94,2012-06-10 11:45:51+00:00
-muukii,Hiroshi Kimura,EURE,"Tokyo, Japan",muukii.app@gmail.com,True,"Swift & iOS - Crafting innovative apps and open-source libraries with a focus on sleek, sophisticated UI, advanced state management, and powerful image processi",309,1024,249,2012-06-25 05:39:43+00:00
-takuoka,Takuya Okamoto,"MAKUAKE, INC.","Tokyo, Japan",,True,"Product Designer
+masuhara,Daisuke Masuhara,,Tokyo,info@masuhara.net,TRUE,Educator/iOS Developer/Rapper,113,355,94,2012-06-10 11:45:51+00:00
+muukii,Hiroshi Kimura,EURE,"Tokyo, Japan",muukii.app@gmail.com,TRUE,"Swift & iOS - Crafting innovative apps and open-source libraries with a focus on sleek, sophisticated UI, advanced state management, and powerful image processi",309,1024,249,2012-06-25 05:39:43+00:00
+takuoka,Takuya Okamoto,"MAKUAKE, INC.","Tokyo, Japan",,TRUE,"Product Designer
 ",67,357,180,2012-08-01 07:04:56+00:00
 marty-suzuki,Taiki Suzuki,"CYBERAGENT, INC.","Tokyo, Japan",,,AbemaTV / University of Aizu 18th,80,782,113,2012-08-02 07:33:35+00:00
-tyoshikawa1106,Taiki Yoshikawa,,"Tokyo, Japan",,True,Salesforce Developer,226,216,16,2012-08-03 08:31:50+00:00
+tyoshikawa1106,Taiki Yoshikawa,,"Tokyo, Japan",,TRUE,Salesforce Developer,226,216,16,2012-08-03 08:31:50+00:00
 sureJiang,,,Tokyo,,,,7,1122,0,2012-08-07 01:41:59+00:00
 alphaKAI,Akihiro Shoji,,"Tokyo, Japan",alpha.kai.net@alpha-kai-net.info,,"D, OCaml, F#, Rust",150,242,222,2012-08-09 14:07:00+00:00
 baku89,Baku 麦,,"Tokyo, Japan",,,video director・visual artist・coder,103,1157,209,2012-08-09 16:00:28+00:00
-chrislgarry,Chris Garry,,"Tokyo, Japan",,True,,34,2165,20,2012-08-23 02:58:54+00:00
+chrislgarry,Chris Garry,,"Tokyo, Japan",,TRUE,,34,2165,20,2012-08-23 02:58:54+00:00
 lin-toto,Fangzheng Lin,LUOGU-DEV,"Tokyo, Japan",,,"MSc student @ 𝑺𝑪𝑰𝑬𝑵𝑪𝑬 𝑻𝑶𝑲𝒀𝑶, Waseda University alumni",26,352,32,2012-08-23 13:10:54+00:00
-sonots,Naotoshi Seo,"ZOZO, INC","Tokyo, Japan",sonots@gmail.com,True,"CRuby, Fluentd, Chainer committer. CTO at ZOZO, Inc. ex-DeNA.",332,439,75,2012-09-06 08:00:37+00:00
+sonots,Naotoshi Seo,"ZOZO, INC","Tokyo, Japan",sonots@gmail.com,TRUE,"CRuby, Fluentd, Chainer committer. CTO at ZOZO, Inc. ex-DeNA.",332,439,75,2012-09-06 08:00:37+00:00
 dsh0416,Delton Ding,YET-ANOTHER-AI,Shanghai ⇌ Tokyo,dsh0416@gmail.com,,Yet Another Evil Bit-level Hack,172,1048,116,2012-09-08 00:47:19+00:00
-nullpo-head,Takaya Saeki,,"Tokyo, Japan (UTC+0900)",abc.tkys+pub@gmail.com,True,"（☕, 🍣, 🍔) => 💻",56,241,53,2012-09-09 15:03:32+00:00
+nullpo-head,Takaya Saeki,,"Tokyo, Japan (UTC+0900)",abc.tkys+pub@gmail.com,TRUE,"（☕, 🍣, 🍔) => 💻",56,241,53,2012-09-09 15:03:32+00:00
 ntddk,Yuma Kurogome,,"Tokyo, Japan",,,ᵖˢᵉᵘᵈᵒ⁻ˢᶜᶦᵉⁿᶜᵉ ᵃⁿᵈ ᶠˡʸᶦⁿᵍ ᵖᶦᵍˢ.,50,335,127,2012-09-21 10:31:17+00:00
 MasayukiSuda,Masayuki Suda,,"Tokyo, Japan",topman31daasuu@gmail.com,,,23,337,36,2012-09-24 10:30:30+00:00
 h6ah4i,Haruki Hasegawa,N/A  (PRIVATE),"Tokyo, Japan",h6a.h4i.0@gmail.com,,,142,524,26,2012-10-13 16:00:57+00:00
 bytatsu0302,Tatsunori Tanaka,JAPAN,Tokyo,,,,0,715,1,2012-10-19 02:25:14+00:00
-yuki-koyama,Yuki Koyama,,Tokyo,yuki@koyama.xyz,True,Research Scientist,59,349,0,2012-11-01 04:38:11+00:00
-ariaghora,Aria Ghora Prabono,"EAGLYS, INC.",Tokyo,hello@ghora.net,True,Craftsman,66,249,44,2012-11-04 05:06:09+00:00
-franciscop,Francisco Presencia,,"Tokyo, Japan",,True,,202,844,31,2012-11-15 02:39:39+00:00
+yuki-koyama,Yuki Koyama,,Tokyo,yuki@koyama.xyz,TRUE,Research Scientist,59,349,0,2012-11-01 04:38:11+00:00
+ariaghora,Aria Ghora Prabono,"EAGLYS, INC.",Tokyo,hello@ghora.net,TRUE,Craftsman,66,249,44,2012-11-04 05:06:09+00:00
+franciscop,Francisco Presencia,,"Tokyo, Japan",,TRUE,,202,844,31,2012-11-15 02:39:39+00:00
 matsui528,Yusuke Matsui,THE UNIVERSITY OF TOKYO,Tokyo,,,Lecturer (Assistant Professor),39,264,0,2012-11-20 08:39:12+00:00
 securas,securas,,"tokyo, Japan",,,,22,258,5,2012-11-25 01:23:30+00:00
 davetang,Dave Tang,DAVETANGDOTORG,Tokyo,me@davetang.org,,Just a dude trying to learn computational stuff and disseminating said stuff onto the interweb.,86,375,40,2012-12-06 12:38:59+00:00
 NicolasDorier,Nicolas Dorier,DG LAB,Tokyo,,,,108,1060,0,2012-12-12 00:29:24+00:00
 JohnEstropia,John Estropia,"EUREKA, INC.",Tokyo,,,,59,201,14,2012-12-13 00:29:16+00:00
-samundrak,Samundra Khatri,INBOUNDPLATFORMCORP,"Tokyo, Japan",Samundrak@yahoo.com,True,(function () { return 'Hello World' }) (),169,215,366,2012-12-19 09:12:09+00:00
+samundrak,Samundra Khatri,INBOUNDPLATFORMCORP,"Tokyo, Japan",Samundrak@yahoo.com,TRUE,(function () { return 'Hello World' }) (),169,215,366,2012-12-19 09:12:09+00:00
 hashrock,hashrock,DENOLAND,Tokyo,,,Tokyo-based hacker/artist,212,400,81,2012-12-27 08:44:45+00:00
 whitphx,Yuichiro Tachibana (Tsuchiya),HUGGING FACE,"Tokyo, Japan",,,,120,503,9,2012-12-27 16:06:16+00:00
 blivesta,Yasuyuki Enomoto,ENYK INC.,Tokyo,,,Design engineer,28,383,0,2012-12-31 19:30:19+00:00
 shspage,Hiroyuki Sato,,Tokyo,,,,13,249,11,2013-01-14 22:05:28+00:00
-remirobert,Remi ROBERT,,"Tokyo, Japan",remirobert33530@gmail.com,True,,148,495,660,2013-01-15 15:57:47+00:00
-hiroppy,Yuta Hiroto,RECRUITERS: DON'T EMAIL ME,Tokyo / Japan,hello@hiroppy.me,True,"Working on @nodejs, @webpack, @babel and @whatwg.😼",262,942,2,2013-01-24 10:00:09+00:00
-cambecc,Cameron Beccario,,"Tokyo, Japan",,True,,12,932,2,2013-01-24 11:13:43+00:00
-AAkira,Akira Aratani,,"Tokyo, Japan",developer.a.akira@gmail.com,True,"Android, Kotlin, Flutter, Go  
+remirobert,Remi ROBERT,,"Tokyo, Japan",remirobert33530@gmail.com,TRUE,,148,495,660,2013-01-15 15:57:47+00:00
+hiroppy,Yuta Hiroto,RECRUITERS: DON'T EMAIL ME,Tokyo / Japan,hello@hiroppy.me,TRUE,"Working on @nodejs, @webpack, @babel and @whatwg.😼",262,942,2,2013-01-24 10:00:09+00:00
+cambecc,Cameron Beccario,,"Tokyo, Japan",,TRUE,,12,932,2,2013-01-24 11:13:43+00:00
+AAkira,Akira Aratani,,"Tokyo, Japan",developer.a.akira@gmail.com,TRUE,"Android, Kotlin, Flutter, Go  
 https://twitter.com/_a_akira  
 https://aakira.studio",51,397,55,2013-01-26 01:57:13+00:00
 aajisaka,Akira Ajisaka,AWS,"Tokyo, Japan",,,Software engineer @aws Glue. Apache (@apache) Hadoop/Yetus/Incubator committer and PMC member. Apache Member. I like OSS and distributed systems.,35,253,48,2013-01-28 07:02:40+00:00
 chomado,ちょまど | Madoka Chiyoda,MICROSOFT,"Tokyo, Japan / Redmond, WA, US",chomado@gmail.com,,Cloud Developer Advocate at Microsoft.,139,1566,18,2013-01-28 11:35:16+00:00
 leemengtw,Meng Lee,STABILITY.AI,"Tokyo, Japan",meng.lee@stability.ai,,ML Engineer @ Stability AI. Also write stuffs @ leemeng.tw,157,643,49,2013-02-02 06:04:18+00:00
-xfoxfu,Yuze Fu,"UNIVERSITY OF TOKYO, @CSG-TOKYO",Tokyo,i@xfox.me,True,"Rust / Node.js / C# // 
+xfoxfu,Yuze Fu,"UNIVERSITY OF TOKYO, @CSG-TOKYO",Tokyo,i@xfox.me,TRUE,"Rust / Node.js / C# // 
 Backend / PLT ",64,211,149,2013-02-17 09:58:36+00:00
 icyflame,Siddharth Kannan,MERCARI,"Tokyo, Japan",kannan.siddharth12@gmail.com,,"site reliability engineer・golang, php, linux",305,205,146,2013-02-22 09:16:03+00:00
 shiraji,Yoshinori Isogai,UBIE-INC,"Tokyo, Japan",isogai.shiraji@gmail.com,,,137,262,48,2013-02-23 03:21:34+00:00
 Richard-Burns,Richard Burns,RICH & MIYU,Tokyo,richard@richandmiyu.com,,Director of Rich & Miyu,29,225,88,2013-03-04 10:21:33+00:00
 guitarrapc,Ikiru Yoshizaki,KINOCO LLC.,"Tokyo, Japan",,,"Unity, Serverless, Kubernetes, Pulumi, Terraform, Swift, Go, Kotlin, C#, PowerShell, TypeScript, AWS, Google Cloud and Azure.",166,278,51,2013-03-13 17:31:25+00:00
-akameco,akameco,,"Japan, Tokyo",akameco.t@gmail.com,True,"frontend developer. 
+akameco,akameco,,"Japan, Tokyo",akameco.t@gmail.com,TRUE,"frontend developer. 
 React. Babel. AST. CLI.",237,282,65,2013-03-29 03:34:58+00:00
 cj1128,CJ,,"Tokyo, Japan",cjting1128@gmail.com,,"Full-stack developer. ""What I can not create, I do not understand"".",80,600,18,2013-04-20 15:44:25+00:00
 wkentaro,Kentaro Wada,MUJIN,"Tokyo, Japan",,,Building intelligence to automate more.,343,2403,374,2013-05-01 09:17:20+00:00
-KeenS,κeen,PREFERRED NETWORKS INC.,"Tokyo, Japan",,True,"Rustacean, Lisper, MLer, Compiler Writer",210,466,55,2013-05-15 05:52:28+00:00
+KeenS,κeen,PREFERRED NETWORKS INC.,"Tokyo, Japan",,TRUE,"Rustacean, Lisper, MLer, Compiler Writer",210,466,55,2013-05-15 05:52:28+00:00
 babarot,Masaki ISHIYAMA,"10X, INC.","Tokyo, Japan",,,Oftenly writing YAML and HCL on business. https://babarot.me,308,684,91,2013-05-16 00:34:14+00:00
 chibash,Shigeru Chiba,CSG-TOKYO,Tokyo,,,,4,245,1,2013-05-17 16:25:37+00:00
 zabbix,Zabbix,,"Riga, Latvia / Tokyo, Japan / New York, USA",info@zabbix.com,,Zabbix :: The Enterprise-Class Open Source Network Monitoring Solution,14,644,0,2013-05-29 15:35:29+00:00
 matchai,Matan Kushner,FAKKU @ANILIST,"Tokyo, Japan",hello@matchai.dev,,"he/him ⋅ Performant applications and delightful user experiences ✨ ⋅ Dev at @FAKKU 🔞 and @anilist ⋅ Working on 
 @starship",146,1049,434,2013-06-10 05:21:04+00:00
-kittinunf,Kittinun Vantasin,,"Tokyo, Japan",,True,Android/iOS Enthusiast,27,679,53,2013-06-11 10:58:56+00:00
-woodrush,Hikaru Ikuta,THE UNIVERSITY OF TOKYO,"Tokyo, Japan",woodrush924@gmail.com,True,Ph.D student at the University of Tokyo studying machine learning.,43,213,7,2013-06-14 19:18:43+00:00
+kittinunf,Kittinun Vantasin,,"Tokyo, Japan",,TRUE,Android/iOS Enthusiast,27,679,53,2013-06-11 10:58:56+00:00
+woodrush,Hikaru Ikuta,THE UNIVERSITY OF TOKYO,"Tokyo, Japan",woodrush924@gmail.com,TRUE,Ph.D student at the University of Tokyo studying machine learning.,43,213,7,2013-06-14 19:18:43+00:00
 conao3,Naoya Yamashita,,"Tokyo, Japan",conao3@gmail.com,,"Emacs, Clojure",463,270,361,2013-06-15 05:36:20+00:00
 Aixile,Yanghua Jin,,Tokyo,kaguyaelf@gmail.com,,,28,305,50,2013-06-22 06:58:38+00:00
-EsProgram,EsProgram,_,"Tokyo, Japan",,True,( ✌︎'ω')✌︎,41,334,13,2013-07-18 14:17:47+00:00
-nuta,Seiya Nuta,VERCEL,"Tokyo, Japan",nuta@seiya.me,True,,12,467,0,2013-07-20 13:28:50+00:00
-himkt,himkt,,"Tokyo, Japan",himkt@klis.tsukuba.ac.jp,True,Software Engineer who is interested in Human Language Technologies / ex-Cookpad (R&D + Service Dev) and University of Tsukuba klis13+slis17,174,213,61,2013-08-05 07:33:33+00:00
+EsProgram,EsProgram,_,"Tokyo, Japan",,TRUE,( ✌︎'ω')✌︎,41,334,13,2013-07-18 14:17:47+00:00
+nuta,Seiya Nuta,VERCEL,"Tokyo, Japan",nuta@seiya.me,TRUE,,12,467,0,2013-07-20 13:28:50+00:00
+himkt,himkt,,"Tokyo, Japan",himkt@klis.tsukuba.ac.jp,TRUE,Software Engineer who is interested in Human Language Technologies / ex-Cookpad (R&D + Service Dev) and University of Tsukuba klis13+slis17,174,213,61,2013-08-05 07:33:33+00:00
 yuichiroharai,Yuichiroh Arai,HOMUNCULUS INC.,"Tokyo, Japan",,,"Front-end / Creative Developer at http://homunculus.jp/ Using HTML5,WebGL,GLSL,Unity, and more. Private works in http://www.yuichiroharai.com/wgl/",21,261,11,2013-08-10 12:00:53+00:00
-pine,Pine Mizune,AH TOKYO GENERAL HOSPITAL,"Tokyo, Japan",pinemz@gmail.com,True,Whose eyes the eyes,271,373,327,2013-08-17 05:55:19+00:00
-yuna0x0,yuna0x0,EDISONLEE55,Taipei | San Francisco | Tokyo,yuna@yuna0x0.com,True,"An Entrepreneur who works in Software, Anime / Manga, Game Dev, and Content Creation.",301,299,249,2013-08-21 11:17:27+00:00
+pine,Pine Mizune,AH TOKYO GENERAL HOSPITAL,"Tokyo, Japan",pinemz@gmail.com,TRUE,Whose eyes the eyes,271,373,327,2013-08-17 05:55:19+00:00
+yuna0x0,yuna0x0,EDISONLEE55,Taipei | San Francisco | Tokyo,yuna@yuna0x0.com,TRUE,"An Entrepreneur who works in Software, Anime / Manga, Game Dev, and Content Creation.",301,299,249,2013-08-21 11:17:27+00:00
 BcRikko,B.C.Rikko,,"Tokyo, Japan",,,Creator of NES.css / Front-end developer,56,534,4,2013-08-25 11:11:56+00:00
 wadackel,tsuyoshi wada,KNOWLEDGE WORK INC.,"Tokyo, Japan",,,"
     Web Frontend Developer in Japan. 🐕💨
 ",127,368,50,2013-09-05 17:22:39+00:00
 megabitsenmzq,Jinyu Meng,,"Tokyo, Japan",megabitsenmzq@gmail.com,,Goldfish / Indie Apple Developer,37,220,51,2013-09-20 06:01:17+00:00
-ryota-murakami,Ryota Murakami,LASTSTANCE,tokyo,dojce1048@gmail.com,True,TypeScript Developer👨‍💻 / I eliminate all unnecessary complexity  from the Web Development. he/him,158,451,161,2013-09-20 11:46:24+00:00
-rayston92,Yishi Wang,EARTH,Tokyo & New York,,True,"I shape user experiences—designing, managing, and sometimes coding. Got my chops at Bixin and @Bytedance.",38,249,238,2013-09-23 13:09:18+00:00
+ryota-murakami,Ryota Murakami,LASTSTANCE,tokyo,dojce1048@gmail.com,TRUE,TypeScript Developer👨‍💻 / I eliminate all unnecessary complexity  from the Web Development. he/him,158,451,161,2013-09-20 11:46:24+00:00
+rayston92,Yishi Wang,EARTH,Tokyo & New York,,TRUE,"I shape user experiences—designing, managing, and sometimes coding. Got my chops at Bixin and @Bytedance.",38,249,238,2013-09-23 13:09:18+00:00
 c-bata,c-bata,,Tokyo,,,@optuna core-dev.,171,705,35,2013-09-28 12:24:04+00:00
-unhappychoice,Yuji Ueki,ORDERLYJP,"Tokyo, Japan",unhappychoice@gmail.com,True,"
+unhappychoice,Yuji Ueki,ORDERLYJP,"Tokyo, Japan",unhappychoice@gmail.com,TRUE,"
     ＼ Full Stack Engineer ／
 
 ",29,1307,3125,2013-10-04 05:40:46+00:00
@@ -455,52 +455,52 @@ ykob,Yoichi Kobayashi,,"Tokyo, Japan",info@tplh.net,,I work as a frontend develo
 satoshi0212,Hattori Satoshi,,Tokyo,satoshi.da.rapper@gmail.com,,,29,321,0,2013-10-24 19:23:15+00:00
 veryyoung,veryyoung,BLOCKCHAIN, Tokyo,veryyoung.me@gmail.com,,"#Bitcoin & #ETH holder,  member of 
 @theNextDAO,  #Web3 builder.",19,831,44,2013-10-29 01:50:41+00:00
-tatsuyah,hata,FREEE K.K.,"Tokyo, Japan",tatsuya.hatanaka@gmail.com,True,,35,278,164,2013-10-29 20:56:33+00:00
+tatsuyah,hata,FREEE K.K.,"Tokyo, Japan",tatsuya.hatanaka@gmail.com,TRUE,,35,278,164,2013-10-29 20:56:33+00:00
 Rokt33r,Junyoung Choi,ISSUEHUNT,Busan / Tokyo,rokt33r.choi@gmail.com,,I_NEED_YOU_RIGHT_NOW,106,324,151,2013-11-06 02:53:40+00:00
-idiotWu,Daofeng Wu,NPI-AI,"Tokyo, Japan",dolphin.w.e@gmail.com,True,I've passed the Turing Test. ,39,376,192,2013-11-24 10:02:59+00:00
-komietty,sakikomikado,,Tokyo,komietty@gmail.com,True,geometry processing,22,248,45,2013-11-27 22:43:17+00:00
+idiotWu,Daofeng Wu,NPI-AI,"Tokyo, Japan",dolphin.w.e@gmail.com,TRUE,I've passed the Turing Test. ,39,376,192,2013-11-24 10:02:59+00:00
+komietty,sakikomikado,,Tokyo,komietty@gmail.com,TRUE,geometry processing,22,248,45,2013-11-27 22:43:17+00:00
 sachaos,Takumasa Sakao,ZLABJP,Tokyo,,,,133,290,90,2013-12-06 08:45:53+00:00
 Phineas,,RAILWAYAPP,Tokyo 東京,,,infra @railwayapp • scalable real-time systems & networking,40,800,21,2013-12-17 22:31:03+00:00
-rakina,Rakina Zata Amni,GOOGLE,"Tokyo, Japan",rakina@google.com,True,Software Engineer @google @chromium 🇮🇩 🇯🇵👩‍💻,22,324,22,2013-12-18 18:19:27+00:00
+rakina,Rakina Zata Amni,GOOGLE,"Tokyo, Japan",rakina@google.com,TRUE,Software Engineer @google @chromium 🇮🇩 🇯🇵👩‍💻,22,324,22,2013-12-18 18:19:27+00:00
 davidnguyen11,David Nguyen,,"Tokyo, Japan",dzungnguyen179@gmail.com,,I make the button yellow,135,214,35,2013-12-31 03:25:53+00:00
 hardmaru,hardmaru,,Tokyo,hardmaru@gmail.com,,I make simple things with neural networks.,75,4871,112,2014-01-04 14:30:42+00:00
 zchee,Koichi Shiraishi,GAUDIY,"Tokyo, Japan",zchee.io@gmail.com,,Gopher.,701,672,908,2014-01-10 05:47:31+00:00
 JPCERTCC,JPCERT Coordination Center,,"Tokyo, Japan",,,JPCERT/CC's official repositories maintained by staff and guests,36,285,0,2014-01-15 00:45:05+00:00
-zlq4863947,zlq4863947,NODE-STOCK,tokyo,,True,"一个想要做智能投顾程序的人。
+zlq4863947,zlq4863947,NODE-STOCK,tokyo,,TRUE,"一个想要做智能投顾程序的人。
 QQ:442540141
 email: zlq4863947@gmail.com
 weixin: zlq4863947",54,397,39,2014-01-24 09:40:41+00:00
-wass08,Wassim SAMAD,,"Tokyo, Japan",wass08@gmail.com,True,"3D Web Developer 💻
+wass08,Wassim SAMAD,,"Tokyo, Japan",wass08@gmail.com,TRUE,"3D Web Developer 💻
 · Teaching Threejs & React Three Fiber on YouTube
 · DevRel @elest_io",141,736,27,2014-01-31 05:56:52+00:00
-ryo-ma,ryo-ma,TIS INC.,"Tokyo, Japan",saka_ro@yahoo.co.jp,True,"
+ryo-ma,ryo-ma,TIS INC.,"Tokyo, Japan",saka_ro@yahoo.co.jp,TRUE,"
 I'm Ryota Sakamoto.
 ",77,770,31,2014-02-12 12:29:29+00:00
 wheatup,,BYTEDANCE,"Tokyo, Japan",acphun@gmail.com,,日服第一切图仔,61,325,18,2014-02-12 17:00:01+00:00
 Tedko,Suji Yan,DIMENSIONDEV,Tokyo/SF/Chicago/NYC/Shanghai,suji.yan@dimension.im,,"Founder/CEO of Dimension.im/Mask Network
 ",56,357,84,2014-02-15 03:06:40+00:00
-Hironsan,Hiroki Nakayama,,"Tokyo, Japan",hiroki.nakayama.py@gmail.com,True,OSS developer | Interested in Natural Language Processing,35,1431,13,2014-02-20 13:36:52+00:00
+Hironsan,Hiroki Nakayama,,"Tokyo, Japan",hiroki.nakayama.py@gmail.com,TRUE,OSS developer | Interested in Natural Language Processing,35,1431,13,2014-02-20 13:36:52+00:00
 chengstone,程世东,,Tokyo,69558140@163.com,,,126,353,150,2014-02-26 09:00:14+00:00
 yoshiko-pg,よしこ,,Tokyo,,,Front-end Developer,28,283,1,2014-03-01 07:30:21+00:00
 syumai,syumai,BASEMACHINA,"Tokyo, Japan",,,Web application developer interested in TypeScript and Go.,175,394,146,2014-03-07 11:20:06+00:00
-potato4d,Takuma HANATANI,"ELEVENBACK, @LINE","Tokyo, Japan",mail@potato4d.me,True,"🌐 Vue/React ja doc maintainer
+potato4d,Takuma HANATANI,"ELEVENBACK, @LINE","Tokyo, Japan",mail@potato4d.me,TRUE,"🌐 Vue/React ja doc maintainer
 💼 @line Senior Engineer, @elevenback CEO, 
 📝 Nuxt beginners guide",75,703,167,2014-03-19 01:32:08+00:00
 naoto0804,Naoto Inoue,CYBERAGENT INC. AILAB,"Tokyo,Japan",naoto.inoue.0804@gmail.com,,"Research Scientist at CyberAgent Inc. AILab, Ph.D. (UTokyo, 2021)",19,202,0,2014-03-26 09:14:24+00:00
-ra1028,Ryo Aoyama,MERCARI,"Tokyo, Japan",,True,"👾
+ra1028,Ryo Aoyama,MERCARI,"Tokyo, Japan",,TRUE,"👾
 iOS lead architect / Principal engineer at @mercari ",59,973,71,2014-04-19 14:51:29+00:00
 Pitu,Kana,,"Tokyo, Japan",heyitspitu@gmail.com,,Software developer and music junkie.,20,259,2,2014-04-28 04:39:59+00:00
 norotime,"NORO ""Edward"" Hiroyoshi",DIVIC CORP.,Tokyo,,,"Born on October 6th, International Cooperation Day. Founder of DIVIC Corp., which operates Coding Bootcamp “DPro” in Japan, Africa and Latin America. ",2,240,642,2014-04-29 03:25:34+00:00
-atyenoria,Akinori Nakajima,VOICEPING,"Tokyo, Japan",,True,"AI Translation Platform for Global Team
+atyenoria,Akinori Nakajima,VOICEPING,"Tokyo, Japan",,TRUE,"AI Translation Platform for Global Team
  ",220,270,882,2014-05-07 10:16:41+00:00
 lotz84,Tatsuya Hirose,FOLIO,"Hanzomon, Tokyo, JAPAN",,,I'm software engineer in Japan. I 'm interested in  Haskell and machine learning.,85,278,100,2014-05-22 10:37:14+00:00
-akueisara,Kuei-Jung Hu,,"Tokyo, Japan",kueijunghu@gmail.com,True,Taiwanese dreamgazer,56,412,199,2014-06-05 06:19:05+00:00
+akueisara,Kuei-Jung Hu,,"Tokyo, Japan",kueijunghu@gmail.com,TRUE,Taiwanese dreamgazer,56,412,199,2014-06-05 06:19:05+00:00
 Desgard,Gua,,Tokyo,gua@desgard.com,,Web3 Dev. / iOS Dev. / Solidity / Python / FE. ,143,1292,389,2014-06-05 11:19:23+00:00
 moneyforward,"Money Forward, Inc.",,Tokyo,,,お金を前へ。人生をもっと前へ。,93,278,0,2014-06-12 10:30:28+00:00
 heestand-xyz,Anton Heestand,RAKUTEN,Tokyo,anton.heestand@gmail.com,,SwiftUI & Metal,120,438,134,2014-06-21 00:39:59+00:00
 vanhuyz,Van Huy,,"Tokyo, Japan",,,,29,214,112,2014-06-24 04:12:27+00:00
 sureshmurali,Suresh Murali,FASTRETAILING,"Tokyo, Japan",suresh.murali29@gmail.com,,Design Technologist,14,268,0,2014-07-09 00:34:17+00:00
-lightsound,しまぶー,SOFTWARE ENGINEER,Tokyo - Japan,,True,,70,407,21,2014-07-21 06:01:14+00:00
+lightsound,しまぶー,SOFTWARE ENGINEER,Tokyo - Japan,,TRUE,,70,407,21,2014-07-21 06:01:14+00:00
 sony,Sony,,"Minato-ku, Tokyo, Japan",,,Sony Group Corporation,79,656,0,2014-08-13 06:12:42+00:00
 yanarchy,Yan Fan,CODE CHRYSALIS,"Tokyo, Japan",,,👩🏻‍💻 co-founder & CTO of @codechrysalis | alphamom of @pooptato,82,206,219,2014-08-25 02:37:03+00:00
 yutkat,Yuta Katayama,,"Tokyo, Japan",,,"Programmer / Editor: Neovim / Shell: zsh / Terminal: WezTerm / OS: ArchLinux(Hyprland), Android / PC:Thinkpad, HHKB Hybrid , GameBall",107,507,106,2014-09-07 06:04:58+00:00
@@ -509,14 +509,14 @@ soskek,Sosuke Kobayashi,"PREFERRED NETWORKS, INC. @PFNET","Tokyo, Japan",,,"sosk
 ML, NLP, CV",79,209,3,2014-10-15 02:43:02+00:00
 AkihiroSuda,Akihiro Suda,NTT,"Tokyo, Japan",suda.kyoto@gmail.com,,"A maintainer of containerd, Lima, Moby(dockerd), BuildKit, runc, etc.
 ",299,1499,0,2014-10-15 08:07:00+00:00
-xct,xct,,Berlin | Tokyo,xct@vulndev.io,True,Hobby ⚑ Collector,37,1021,199,2014-10-18 05:58:57+00:00
-sgr-ksmt,Suguru Kishimoto,HOKUTORESIDENT,"Tokyo, Japan",melodydance.k.s+biz@gmail.com,True,"iOS/Web Developer and Technical Advisor for Firebase.
+xct,xct,,Berlin | Tokyo,xct@vulndev.io,TRUE,Hobby ⚑ Collector,37,1021,199,2014-10-18 05:58:57+00:00
+sgr-ksmt,Suguru Kishimoto,HOKUTORESIDENT,"Tokyo, Japan",melodydance.k.s+biz@gmail.com,TRUE,"iOS/Web Developer and Technical Advisor for Firebase.
 
 💖:Swift/TypeScript/Firebase/React",131,330,287,2014-10-22 11:26:35+00:00
-MaxMEllon,Kento TSUJI,,"Tokyo, Japan",,True,@tokyucorp ,246,208,202,2014-11-06 17:34:00+00:00
+MaxMEllon,Kento TSUJI,,"Tokyo, Japan",,TRUE,@tokyucorp ,246,208,202,2014-11-06 17:34:00+00:00
 hiroyuki-kasai,Hiroyuki KASAI,"PH.D, PROFESSOR, WASEDA UNIVERSITY","Tokyo, JAPAN",,,"Research interests include machine learning, optimization and multimedia signal processing.",17,271,2,2014-11-10 09:38:56+00:00
 ryo24,Ryo Yamamoto,"LIFE IS TECH,INC",Tokyo,,,"Life is Tech ! School instructor, Nazotoki game creator",38,215,43,2014-11-11 09:25:09+00:00
-slankdev,Hiroki SHIROKURA,"LY CORPORATION, KYOTO UNIVERSITY","Tokyo, Japan",slank.dev@gmail.com,True,Software Engineer. High performance packet processing / SDN / BGP / IS-IS / SRv6 / K8s,81,223,163,2014-11-21 00:29:58+00:00
+slankdev,Hiroki SHIROKURA,"LY CORPORATION, KYOTO UNIVERSITY","Tokyo, Japan",slank.dev@gmail.com,TRUE,Software Engineer. High performance packet processing / SDN / BGP / IS-IS / SRv6 / K8s,81,223,163,2014-11-21 00:29:58+00:00
 tuian,,STUDENT,tokyo,,,"Script kiddie. Security learner.
 You can reach me via email.
 To encrypt your message, please use PGP key 0x5E6BAFD56468F6D8.
@@ -524,26 +524,26 @@ To encrypt your message, please use PGP key 0x5E6BAFD56468F6D8.
 
 
 ",1672,252,1543,2014-11-28 08:43:52+00:00
-Saul-Mirone,Mirone,,Tokyo,Saul-Mirone@outlook.com,True,Kiss the demons out of my dreams.,13,742,47,2014-12-02 13:54:08+00:00
+Saul-Mirone,Mirone,,Tokyo,Saul-Mirone@outlook.com,TRUE,Kiss the demons out of my dreams.,13,742,47,2014-12-02 13:54:08+00:00
 BrambleXu,BrambleXu,,Tokyo,liangxu006@gmail.com,,An NLPer interested in Relation Extraction and Knowledge Graph,39,1026,74,2015-01-30 04:53:55+00:00
 bannzai,bannzai,,"Tokyo, Japan",kingkong999yhirose@gmail.com,,,223,277,25,2015-02-07 14:36:01+00:00
-1amageek,1amageek,STAMP INC,Tokyo in Japan,tmy0x3@icloud.com,True,@1amageek,188,275,175,2015-02-22 14:06:21+00:00
+1amageek,1amageek,STAMP INC,Tokyo in Japan,tmy0x3@icloud.com,TRUE,@1amageek,188,275,175,2015-02-22 14:06:21+00:00
 junderw,Jonathan Underwood,,"Tokyo, Japan",bitcoinjs@junderw.com,,"Chief Bitcoin Officer,
 Bitbank Inc.",125,403,7,2015-02-28 15:35:47+00:00
-kaustubhhiware,Kaustubh Hiware,MERCARI @METAKGP,Tokyo,hiwarekaustubh+github@googlemail.com,True,"Learning by exploring!
+kaustubhhiware,Kaustubh Hiware,MERCARI @METAKGP,Tokyo,hiwarekaustubh+github@googlemail.com,TRUE,"Learning by exploring!
 SWE @mercari",121,305,414,2015-03-04 18:04:33+00:00
 taku910,Taku Kudo,,"Tokyo, Japan",,,,22,384,5,2015-03-14 05:42:54+00:00
-kateinoigakukun,Yuta Saito,,Tokyo,kateinoigakukun@gmail.com,True,,260,554,72,2015-03-29 04:37:42+00:00
+kateinoigakukun,Yuta Saito,,Tokyo,kateinoigakukun@gmail.com,TRUE,,260,554,72,2015-03-29 04:37:42+00:00
 moskomule,Ryuichiro Hataya,RIKEN AIP,Tokyo,,,Postdoctoral Researcher at RIKEN AIP,76,315,119,2015-04-05 12:36:00+00:00
 takayama-lily,takayama,SYSTEM ENGINEER,Tokyo,takayama@awa.moe,,,34,318,2,2015-04-19 03:43:32+00:00
 13o-bbr-bbq,isao takaesu,,"Tokyo, Japan.",takaesu235@gmail.com,,"I'm an engineer, Machine Learning hacker and CISSP. Speaker at Black Hat Arsenal, DEFCON Demo Labs/AI Village, Pycon, CODE BLUE etc., ",13,488,0,2015-04-26 15:12:22+00:00
-houko,涼風羽月,U-NEXT,"Kita,Tokyo",e-hu@unext.jp,True,"FullStack Engineer In Tokyo, Interested In Game/AI/IoT/XR.",48,628,226,2015-05-27 10:33:52+00:00
+houko,涼風羽月,U-NEXT,"Kita,Tokyo",e-hu@unext.jp,TRUE,"FullStack Engineer In Tokyo, Interested In Game/AI/IoT/XR.",48,628,226,2015-05-27 10:33:52+00:00
 mob-sakai,mob-sakai,"WFS, INC.","Tokyo, Japan",,,,62,2292,13,2015-06-01 04:13:01+00:00
 siketyan,Naoki Ikeguchi,BITKEY-OSS,"Tokyo, Japan",me@s6n.jp,,enginnering behind our web.,213,409,298,2015-06-06 06:46:06+00:00
 kissy24,kissy24,,"Tokyo, Japan",,,"Engineering Manager(DX Product Team), Software Developer(DX, ERP, NLP), Programming Language(Python, Go, Java)",30,211,317,2015-06-09 07:17:01+00:00
 lukas-reineke,Lukas Reineke,MAPBOX,"Tokyo, Japan",lukas@reineke.jp,,,77,296,23,2015-06-15 18:44:44+00:00
-ktr0731,ktr,,"Tokyo, Japan",ktr@syfm.me,True,application engineer,136,258,145,2015-06-18 14:56:42+00:00
-BBleae,晴猫,,"Tokyo, Japan",sayaka@shiz.uk,True,Node.js | Vue | Minecraft | 🏳️‍⚧️ | Thanks to my enlightener @akinazuki,57,247,280,2015-06-25 05:18:27+00:00
+ktr0731,ktr,,"Tokyo, Japan",ktr@syfm.me,TRUE,application engineer,136,258,145,2015-06-18 14:56:42+00:00
+BBleae,晴猫,,"Tokyo, Japan",sayaka@shiz.uk,TRUE,Node.js | Vue | Minecraft | 🏳️‍⚧️ | Thanks to my enlightener @akinazuki,57,247,280,2015-06-25 05:18:27+00:00
 line,LINE,,"Tokyo, Japan",,,,140,1039,0,2015-07-01 03:07:36+00:00
 suzuki-shunsuke,Shunsuke Suzuki,,"Tokyo, Japan",,,Platform Engineer / OSS Developer / Go,512,338,0,2015-07-13 23:22:32+00:00
 wynand1004,Christian Thompson,,Tokyo,,,"Moodle Admin, Tech Integrator, Web Dude, IT Drone, Linux Enthusiast, Pythonista, Hoopy, Frood",13,400,22,2015-07-24 12:46:11+00:00
@@ -559,22 +559,22 @@ coord-e,Hiromi Ogawa,COOKPAD,"Tokyo, Japan",me@coord-e.com,,,116,235,225,2015-12
 hannoeru,ハン / Han,LINKX-DEV,"Tokyo, Japan.",,,"If you never break anything, you're probably not moving fast enough.",124,382,133,2015-12-14 11:54:28+00:00
 kitasenjudesign,Kitasenju Design,KITASENJU DESIGN,"Kitasenju, Tokyo",,,北千住デザイン,41,325,57,2016-01-22 09:55:54+00:00
 Dosugamea,Omado,BUILDING THE SHOP,"Japan, Tokyo",dsgamer777@gmail.com,,GoかPythonかJavascriptをwriteするbegineer。Chino is mai waifuだよ。,92,213,309,2016-02-07 09:53:54+00:00
-kboy-silvergym,Kei Fujikawa,KBOY INC.,Tokyo Japan,,True,,55,270,29,2016-03-06 07:36:50+00:00
-tigercosmos,"Liu, An-Chi","NYCU-SSLAB, @MUJIN","Tokyo, Japan",phy.tiger@gmail.com,True,"Software Engineer @ Mujin, Inc, Tokyo / 劉安齊，軟體工程師 / 🇹🇼 ✈️🇯🇵",96,510,79,2016-03-22 18:23:07+00:00
-famasoon,Ryota Sakai,,"Tokyo, Japn",,True,"Threat research and programming.
+kboy-silvergym,Kei Fujikawa,KBOY INC.,Tokyo Japan,,TRUE,,55,270,29,2016-03-06 07:36:50+00:00
+tigercosmos,"Liu, An-Chi","NYCU-SSLAB, @MUJIN","Tokyo, Japan",phy.tiger@gmail.com,TRUE,"Software Engineer @ Mujin, Inc, Tokyo / 劉安齊，軟體工程師 / 🇹🇼 ✈️🇯🇵",96,510,79,2016-03-22 18:23:07+00:00
+famasoon,Ryota Sakai,,"Tokyo, Japn",,TRUE,"Threat research and programming.
 https://twitter.com/FAMASoon",186,278,2800,2016-03-24 04:34:42+00:00
 dshukertjr,Tyler,SUPABASE,Tokyo,,,"Developer based in Tokyo Japan. 
 Supabase, Flutter, Kotlin, Next.js, Japanese and English",148,264,0,2016-03-28 09:39:07+00:00
-LanceMoe,Lance.Moe,,"Tokyo, Japan",admin@lance.moe,True,Full-Stack developer in Tokyo.,53,241,73,2016-04-16 19:49:02+00:00
-neet,Ryō Igarashi,,Tokyo,n33t5hin@gmail.com,True,A seventh grade dropout,83,314,194,2016-05-10 01:54:38+00:00
+LanceMoe,Lance.Moe,,"Tokyo, Japan",admin@lance.moe,TRUE,Full-Stack developer in Tokyo.,53,241,73,2016-04-16 19:49:02+00:00
+neet,Ryō Igarashi,,Tokyo,n33t5hin@gmail.com,TRUE,A seventh grade dropout,83,314,194,2016-05-10 01:54:38+00:00
 ionicc,Sagar Vakkala,CODEZONED @SYNSPECTIVE @ZEALS-CO-LTD,Tokyo,sagar@codezoned.com,,"
     Founder @codezoned  | 
 Engineering @synspective | 
 Github Campus Expert Alumni
 ",58,243,5,2016-05-25 11:20:40+00:00
-Ryo-N7,Ryo Nakagawara,ACDIVOCATECH,"Tokyo, Japan",,True,#rstats | MSc. Business Psychology (UCL) | ⚽ #LFC | Data Scientist @ ACDI-VOCA (🌾 NGO) | R Weekly Member | Ex-⚽ Consultant @ 11tegen11 | Twitter: @R_by_Ryo,63,383,183,2016-05-30 23:42:49+00:00
-nakabonne,Ryo Nakao,,"Tokyo, Japan",ryo@nakao.dev,True,Hej!,183,477,55,2016-06-03 12:56:29+00:00
-d-date,Daiki Matsudate,,"Tokyo, Japan",,True,iOS Developer,107,223,71,2016-06-30 09:23:25+00:00
+Ryo-N7,Ryo Nakagawara,ACDIVOCATECH,"Tokyo, Japan",,TRUE,#rstats | MSc. Business Psychology (UCL) | ⚽ #LFC | Data Scientist @ ACDI-VOCA (🌾 NGO) | R Weekly Member | Ex-⚽ Consultant @ 11tegen11 | Twitter: @R_by_Ryo,63,383,183,2016-05-30 23:42:49+00:00
+nakabonne,Ryo Nakao,,"Tokyo, Japan",ryo@nakao.dev,TRUE,Hej!,183,477,55,2016-06-03 12:56:29+00:00
+d-date,Daiki Matsudate,,"Tokyo, Japan",,TRUE,iOS Developer,107,223,71,2016-06-30 09:23:25+00:00
 uiryuu,Yuze Jiang,THE UNIVERSITY OF TOKYO,"Tokyo, Japan",uiryuu@g.ecc.u-tokyo.ac.jp,,DE35DC785BD79B8630023DA3631851860DA8E942,16,243,18,2016-07-01 05:51:14+00:00
 kodai100,Kodai Takao,STU.INC,"Shibuya, Tokyo",kodai100@gmail.com,,Computer graphics engineer specialized in physics simulations (especially fluid dynamics) and live performance.,118,306,29,2016-07-07 07:45:51+00:00
 RobertTLange,Robert Tjarko Lange,,"Tokyo, Berlin, Barcelona, London",robertlange0@gmail.com,,"
@@ -584,22 +584,22 @@ Meta-Discovery @SakanaAI 🕵️
 
 
 ",36,694,10,2016-07-09 20:30:24+00:00
-minaminao,minaminao,,Tokyo,minaminaoy@gmail.com,True,🦦@otter-sec 🦙@alpacahack 🐝@x-vespiary,143,369,3,2016-07-17 04:52:54+00:00
+minaminao,minaminao,,Tokyo,minaminaoy@gmail.com,TRUE,🦦@otter-sec 🦙@alpacahack 🐝@x-vespiary,143,369,3,2016-07-17 04:52:54+00:00
 nyoki-mtl,Hiroki Taniai,THE UNIVERSITY OF TOKYO,Tokyo,charmer.popopo@gmail.com,,,10,253,1,2016-08-09 11:48:19+00:00
-linxGnu,Linh Tran Tuan,H2CORPORATION,Tokyo,,True,"Go, Rust Addict",38,241,28,2016-08-11 03:21:06+00:00
-anshumanv,Anshuman,,"Tokyo, Japan",,True,絶好調 👽,72,433,113,2016-08-13 14:31:00+00:00
-micnncim,micnncim,,"Tokyo, Japan",,True,,198,244,4,2016-08-30 09:44:19+00:00
+linxGnu,Linh Tran Tuan,H2CORPORATION,Tokyo,,TRUE,"Go, Rust Addict",38,241,28,2016-08-11 03:21:06+00:00
+anshumanv,Anshuman,,"Tokyo, Japan",,TRUE,絶好調 👽,72,433,113,2016-08-13 14:31:00+00:00
+micnncim,micnncim,,"Tokyo, Japan",,TRUE,,198,244,4,2016-08-30 09:44:19+00:00
 shaoanlu,,,"Tokyo, Japan",,,,42,539,179,2016-09-05 13:33:45+00:00
-ChunML,Trung Tran,,"Tokyo, Japan",,True,"Creator of AnnoMachine. Focusing on bringing AI to life.
+ChunML,Trung Tran,,"Tokyo, Japan",,TRUE,"Creator of AnnoMachine. Focusing on bringing AI to life.
 Blogging on blog.erico.vn.",36,349,0,2016-09-06 13:13:58+00:00
 takefumi-yoshii,Takefumi Yoshii,,"Tokyo, Japan",yoshiitakefumidw@gmail.com,,Web Application Developer. interested in TypeScript AST.,102,279,34,2016-09-12 02:25:41+00:00
-andriiginting,Andri Ginting,SMARTNEWS,"Tokyo, Japan",andris.ginting@gmail.com,True,"android enthusiasts | software engineer
+andriiginting,Andri Ginting,SMARTNEWS,"Tokyo, Japan",andris.ginting@gmail.com,TRUE,"android enthusiasts | software engineer
 
 ",88,258,98,2016-10-03 16:35:58+00:00
 jay-kumogata,Jay Kumogata ,KUMOGATA COMPUTING LABORATORY,"Tokyo, Japan",,,"Author of InfoNES, InfoGB, InfoVectrex, MonadChip8, PyxelChip8 and PyGmc4.  My hobbies are collecting and reincarnating retro games 🕹️. Haskeller. Sega lover.",15,300,804,2016-10-15 13:01:56+00:00
 magurotuna,Yusuke Tanaka,DENOLAND,"Tokyo, Japan",,,Improving Deno. Part-time master's student at Georgia Tech studying computer science. he/him,159,275,49,2016-11-22 05:19:14+00:00
 yuk1ty,Yuki Toyoda,"SANSAN, INC.","Tokyo, Japan",yuki.multiplus@gmail.com,,Software Engineer 🇯🇵,130,342,28,2016-12-10 03:28:24+00:00
-mehrankmlf,Mehran Kamalifard,RAKUTEN,Tokyo,mehran.kmlf@icloud.com,True,iOS Developer,27,467,618,2016-12-12 12:44:41+00:00
+mehrankmlf,Mehran Kamalifard,RAKUTEN,Tokyo,mehran.kmlf@icloud.com,TRUE,iOS Developer,27,467,618,2016-12-12 12:44:41+00:00
 larryshamalama,,UNIVERSITY OF TORONTO,"Tokyo, Japan",,,,74,248,149,2016-12-25 15:15:26+00:00
 SystemErrorWang,,,Tokyo,,,"Interested in ACG related AIGC applications, including image and video synthesis, i2i translation, style transfer",24,321,9,2017-02-28 03:28:03+00:00
 anharu2394,An Haru,," Tokyo, Japan",haruan2394@gmail.com,,I love Rust!!,57,218,42,2017-03-15 01:48:29+00:00
@@ -607,13 +607,13 @@ ai03-2725,ai03,,Tokyo,,,Keyboard Addict,49,510,4,2017-03-23 02:17:23+00:00
 suzana-ilic,Suzana Ilić,,"Tokyo, London",,,"Minds and Machines. Linguist. 
 MLT & ML Search Lead. RAI for Azure OpenAI at Microsoft. 💙 
 Prev: BigScience & HuggingFace, Causaly, NII Japan",33,428,12,2017-04-20 04:41:26+00:00
-Ohara124c41,Christopher Ohara,"DAILAB, @UDACITY", Tokyo ⮀ Los Angeles ⮀ Berlin,cao36@njit.edu,True,"Roboticist and cybernetician. Specializes in (space) robotics, artificial intelligence, embedded systems, and mechatronics.",142,437,512,2017-04-29 22:10:06+00:00
+Ohara124c41,Christopher Ohara,"DAILAB, @UDACITY", Tokyo ⮀ Los Angeles ⮀ Berlin,cao36@njit.edu,TRUE,"Roboticist and cybernetician. Specializes in (space) robotics, artificial intelligence, embedded systems, and mechatronics.",142,437,512,2017-04-29 22:10:06+00:00
 nnn1590,ーーー,GHOST,"Kitazawa, Setagaya-ku, Tokyo",,,,217,233,343,2017-05-26 16:23:02+00:00
 sienori,,,"Tokyo, Japan",sienori.firefox@gmail.com,,Software engineer,20,212,0,2017-06-18 03:18:50+00:00
-Jannchie,Jianqi Pan,PREFERRED NETWORKS INC.,"Japan, Tokyo ⇄ China, Shanghai",jannchie@gmail.com,True,"Non-indie developer. 
+Jannchie,Jianqi Pan,PREFERRED NETWORKS INC.,"Japan, Tokyo ⇄ China, Shanghai",jannchie@gmail.com,TRUE,"Non-indie developer. 
 Passionate about programming.
 A Mediator (INFP).",184,1761,125,2017-06-28 01:40:45+00:00
-yuk7,yuk7,,"Tokyo, Japan",yukx00@gmail.com,True,"Software Engineer | Nerd | Maker | Hacker Wannabe | uwu | 
+yuk7,yuk7,,"Tokyo, Japan",yukx00@gmail.com,TRUE,"Software Engineer | Nerd | Maker | Hacker Wannabe | uwu | 
 I use Arch btw",75,1051,121,2017-07-06 15:52:36+00:00
 asukaminato0721,Asuka Minato,THE UNIVERSITY OF TOKYO,tokyo,i@asukaminato.eu.org,,,147,264,173,2017-07-09 15:22:42+00:00
 kananinirav,kanani Nirav,TRIPLA K.K.,"Tokyo, Japan",,,Ruby On Rails Developer | AWS Certified Cloud Practitioner,51,238,9,2017-07-24 03:40:41+00:00
@@ -623,7 +623,7 @@ RPA,
 Now working at DeepDive, Inc.",0,336,532,2017-08-21 13:16:58+00:00
 Mikubill,Kakigōri Maker,,"Tokyo, Japan",,,Kira~,14,935,4,2017-08-22 13:33:38+00:00
 SoraSuegami,Sora Suegami,THE UNIVERSITY OF TOKYO,"Tokyo, Japan",,,"Ethereum / cryptography (zero-knowledge proof system, secure computation, cryptographic obfuscation.)",57,209,78,2017-08-26 01:46:13+00:00
-upura,Shotaro Ishihara,,"Tokyo, Japan",upura0@gmail.com,True,Data scientist,83,312,18,2017-08-30 00:56:32+00:00
+upura,Shotaro Ishihara,,"Tokyo, Japan",upura0@gmail.com,TRUE,Data scientist,83,312,18,2017-08-30 00:56:32+00:00
 deatiger,deatiger,"TORACO, INC.","Tokyo, Japan",,,Like @reactjs,30,209,2,2017-09-18 13:30:25+00:00
 opengineer,オープンエンジニア,,"Tokyo, Japan",,,"Software developer.
 ",10,3164,54585,2017-10-16 06:32:02+00:00
@@ -631,17 +631,17 @@ GomaGoma676,Zinnux,,"Tokyo, Japan",,,Sr. Web Developer,67,218,0,2017-11-10 14:07
 bcgameProject,emotokayo,STUDIO,tokyo,,,bc.game is social gaming platform by blockchain,1,256,5,2017-12-24 07:59:27+00:00
 ucan-lab,ucan-lab,MIRAITO DESIGN,"Tokyo, Kanda",,,"Backend Developer at Miraito Design.
 I love PHP and I'm focusing on Laravel.",125,212,116,2018-01-04 09:59:54+00:00
-mayocream,Mayo Takanashi,,Tokyo,mayo@linux.com,True,Cloud Native | Networking |  Full-stack  | ex-@mercari  |  ex-@Kong  |  Life is Strange. 🌀,164,415,218,2018-01-14 10:17:01+00:00
+mayocream,Mayo Takanashi,,Tokyo,mayo@linux.com,TRUE,Cloud Native | Networking |  Full-stack  | ex-@mercari  |  ex-@Kong  |  Life is Strange. 🌀,164,415,218,2018-01-14 10:17:01+00:00
 Chakazul,Bert Chan,,Tokyo,,,,9,294,6,2018-02-24 15:29:29+00:00
 YutaroOgawa,Yutaro Ogawa,,"Tokyo, Japan",,,リポジトリ（about_me）に自己紹介を掲載しております。,18,280,0,2018-04-07 06:42:23+00:00
-smorimoto,Sora Morimoto,OCAML @TC39,"Cambridge, UK / Tokyo, Japan",sora@morimoto.io,True,@ocaml @tarides @ocsigen @mirage @Solo5 @tc39,342,921,248,2018-04-26 05:22:42+00:00
+smorimoto,Sora Morimoto,OCAML @TC39,"Cambridge, UK / Tokyo, Japan",sora@morimoto.io,TRUE,@ocaml @tarides @ocsigen @mirage @Solo5 @tc39,342,921,248,2018-04-26 05:22:42+00:00
 aocattleya,aocattleya,"DLSITE VIVION, INC.","Tokyo, Japan",,,"Web Developer at DLsite viviON, Inc.",56,402,384,2018-05-10 01:20:30+00:00
 aviatesk,Shuhei Kadowaki,JULIACOMPUTING,"Tokyo, Japan",,,Hacking on @JuliaLang compiler.,120,299,21,2018-06-23 07:18:02+00:00
-nobuyuki83,Nobuyuki Umetani,THE UNIVERSITY OF TOKYO,Tokyo,,True,research & development in the fields of computer graphics & engineering,48,230,306,2018-06-23 17:45:12+00:00
-JasonkayZK,Jasonkay,,"Japan, Tokyo",jasonkayzk@gmail.com,True,SCUT18(卒業)/ex-@Tencent/プロ→アマチュアのプログラマー/Distributed-System/Cloud-Native/言語→英語と日本語/音楽→ミスチル/はじめまして(笑),96,314,579,2018-07-04 00:52:10+00:00
-LaoshuBaby,快乐的老鼠宝宝,,"Tokyo, Japan <- Beijing, China",laoshubaby@protonmail.com,True,宝宝我才不会卖萌给你看QwQ,134,234,162,2018-08-25 05:38:09+00:00
+nobuyuki83,Nobuyuki Umetani,THE UNIVERSITY OF TOKYO,Tokyo,,TRUE,research & development in the fields of computer graphics & engineering,48,230,306,2018-06-23 17:45:12+00:00
+JasonkayZK,Jasonkay,,"Japan, Tokyo",jasonkayzk@gmail.com,TRUE,SCUT18(卒業)/ex-@Tencent/プロ→アマチュアのプログラマー/Distributed-System/Cloud-Native/言語→英語と日本語/音楽→ミスチル/はじめまして(笑),96,314,579,2018-07-04 00:52:10+00:00
+LaoshuBaby,快乐的老鼠宝宝,,"Tokyo, Japan <- Beijing, China",laoshubaby@protonmail.com,TRUE,宝宝我才不会卖萌给你看QwQ,134,234,162,2018-08-25 05:38:09+00:00
 Machine-Learning-Tokyo,Machine Learning Tokyo,,Tokyo,suzana@mltokyo.ai,,Democratizing Machine Learning.,46,409,0,2018-09-09 01:24:12+00:00
-aitikgupta,Aitik Gupta,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY & MANAGEMENT,"Tokyo, Japan",aitikgupta@gmail.com,True,Software Engineer at @mercari JP | Ex-@Headout | Ex-@FamPay | GSoC'21 @matplotlib | Spring'21 @MLH-Fellowship | IIIT Gwalior '23,60,261,146,2018-10-09 14:10:09+00:00
+aitikgupta,Aitik Gupta,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY & MANAGEMENT,"Tokyo, Japan",aitikgupta@gmail.com,TRUE,Software Engineer at @mercari JP | Ex-@Headout | Ex-@FamPay | GSoC'21 @matplotlib | Spring'21 @MLH-Fellowship | IIIT Gwalior '23,60,261,146,2018-10-09 14:10:09+00:00
 Cysharp,"Cysharp, Inc.",,"Tokyo, Japan",,,"Cysharp is a subsidiary of Cygames, that is focusing C# both .NET and Unity.",40,2205,0,2018-10-26 03:04:06+00:00
 kurone-kito,Kuroné Kito (黒音キト),,"Tokyo, Japan",,,Virtual Beings: Virtual Youtuber (VTuber) / Developer for web frontend / UIUX designer / 🇯🇵,53,229,215,2018-11-01 04:45:15+00:00
 pasta-auto,Toyota-InfoTech,,Tokyo,,,,2,308,0,2018-11-20 08:27:01+00:00
@@ -651,7 +651,7 @@ ajnart,Thomas Camlong,,"Tokyo, Japan",thomas@ajnart.fr,,Open-source enthusiast. 
 ynagatomo,Yasuhito Nagatomo,VISIONOS / IOS DEVELOPER | AR ML CV,"Tokyo, Japan",,,visionOS / iOS Developer | AR ML CV,37,369,1,2020-06-02 11:11:49+00:00
 Sen-Takatsuki,Yoshimura Eto,,"Tokyo, Japan",,,"こんにちは! 
 (o゜▽゜)o",12,2938,209,2020-07-28 11:07:32+00:00
-katchion13,Katia Midori,,Tokyo,,True,Brazilian descent of Japanese living in Tokyo. Former web designer and systems engineer who studied programming and databases in Brazil.,20,360,324,2020-08-19 14:39:58+00:00
+katchion13,Katia Midori,,Tokyo,,TRUE,Brazilian descent of Japanese living in Tokyo. Former web designer and systems engineer who studied programming and databases in Brazil.,20,360,324,2020-08-19 14:39:58+00:00
 ubugeeei,ubugeeei,"VUEJS, @VUEJS-JP, @MATES-SYSTEM",Tokyo / Japan,,, 🇯🇵🗼 禅 / サムライ 🥷,107,207,58,2020-09-13 02:40:20+00:00
 fontworks-fonts,Fontworks Inc.,,"Tokyo & Fukuoka, Japan",,,"Planning, development, and sale of digital fonts (typefaces), software development, provision of technical services, and OEM development, etc.",7,266,0,2020-12-11 12:29:49+00:00
 pilcrowonpaper,pilcrow,LUCIA-AUTH,"Tokyo, Japan",pilcrowonpaper@gmail.com,,I like making stuff,50,2618,0,2021-03-14 10:45:53+00:00
@@ -660,10 +660,10 @@ KotaroNakashima,Kotaro Nakashima,,"Tokyo, Japan",,,"Hello!  I'm a Japanese high 
 I'm studying HTML, CSS, Javascript, php, Python. I'm interested in AI",5,496,1490,2021-10-06 06:33:53+00:00
 k0i,k0i,,"Tokyo,Japan",,,"Раньше учился в России,а сейчас работаю за японскую компанию.
 ",18,219,210,2022-02-21 10:00:02+00:00
-naruhitotakei,Naruhito Takei,INDIVIDUAL DEVELOPER,"Chiyoda City Tokyo, Japan",naruhito.takei@gmail.com,True,,23,269,515,2022-03-15 20:18:48+00:00
+naruhitotakei,Naruhito Takei,INDIVIDUAL DEVELOPER,"Chiyoda City Tokyo, Japan",naruhito.takei@gmail.com,TRUE,,23,269,515,2022-03-15 20:18:48+00:00
 asahilina,Asahi Lina,ASAHILINUX,Tokyo,lina@asahilina.net,,"Hello everyone, Asahi Lina here! I'm a Linux developer VTuber!",17,3015,0,2022-03-21 11:29:54+00:00
 JDDKCN,剧毒的KCN,KCN-SERVER COPYRIGHT ©  2023-2024,Tokyo,,,喵喵喵~,24,346,72,2022-04-05 01:44:09+00:00
 256-daisuki,256大好き!,256で世界を明るく!,TOKYO,,,,10,216,312,2022-10-10 05:50:32+00:00
 abeake,Abe Akira,,Tokyo,,,,8,253,298,2023-01-30 00:23:46+00:00
-codeninja819,Jiro Matsumoto,HASHNINJAS,"Tokyo, Japan",jiromatsumoto98@gmail.com,True,Web3 or Nothing,50,662,5122,2023-02-17 15:07:47+00:00
+codeninja819,Jiro Matsumoto,HASHNINJAS,"Tokyo, Japan",jiromatsumoto98@gmail.com,TRUE,Web3 or Nothing,50,662,5122,2023-02-17 15:07:47+00:00
 SakanaAI,Sakana AI,,Tokyo,info at sakana dot ai,,On a quest to create a new kind of foundation model based on nature-inspired intelligence.,6,851,0,2023-07-31 00:18:23+00:00
